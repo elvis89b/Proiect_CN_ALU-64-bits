@@ -1,0 +1,8 @@
+module bitwise_not (
+  input in_0,
+  output not_
+);
+
+  assign not_ = ~in_0;
+  
+endmodule

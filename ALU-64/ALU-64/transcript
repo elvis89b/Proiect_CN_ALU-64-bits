@@ -1,0 +1,4080 @@
+# Reading C:/Users/INTEL/Downloads/modelsim/modelsim/tcl/vsim/pref.tcl 
+# OpenFile C:/Users/INTEL/Desktop/FACULTATE/ALU-64/ALU_64.v 
+pwd
+# C:/Users/INTEL/Desktop/FACULTATE/ALU-64
+do run_ALU_64.txt
+# *.v
+# ALU_64_tb
+# Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+# -- Compiling module ALU_64
+# -- Compiling module ALU_64_tb
+# -- Compiling module and_wordgate
+# -- Compiling module and_wordgate_tb
+# -- Compiling module arithmetic_unit
+# -- Compiling module bitwise_and
+# -- Compiling module bitwise_and_tb
+# -- Compiling module bitwise_nand
+# -- Compiling module bitwise_nand_tb
+# -- Compiling module bitwise_nor
+# -- Compiling module bitwise_nor_tb
+# -- Compiling module bitwise_not
+# -- Compiling module bitwise_not_tb
+# -- Compiling module bitwise_or
+# -- Compiling module bitwise_or_tb
+# -- Compiling module bitwise_xnor
+# -- Compiling module bitwise_xnor_tb
+# -- Compiling module bitwise_xor
+# -- Compiling module bitwise_xor_tb
+# -- Compiling module br2
+# -- Compiling module br2_tb
+# -- Compiling module control_unit
+# -- Compiling module control_unit_tb
+# -- Compiling module counter
+# -- Compiling module counter_tb
+# -- Compiling module csea_level
+# -- Compiling module csea_level_tb
+# -- Compiling module fac
+# -- Compiling module fac_tb
+# -- Compiling module logic_unit
+# -- Compiling module logic_unit_tb
+# -- Compiling module ml_csea_8
+# -- Compiling module ml_csea_8_tb
+# -- Compiling module mux16to1
+# -- Compiling module mux16to1_tb
+# -- Compiling module mux2to1
+# -- Compiling module mux2to1_tb
+# -- Compiling module mux4to1
+# -- Compiling module mux4to1_tb
+# -- Compiling module mux8to1
+# -- Compiling module mux8to1_tb
+# -- Compiling module nand_wordgate
+# -- Compiling module nand_wordgate_tb
+# -- Compiling module nor_wordgate
+# -- Compiling module nor_wordgate_tb
+# -- Compiling module not_wordgate
+# -- Compiling module not_wordgate_tb
+# -- Compiling module or_wordgate
+# -- Compiling module or_wordgate_tb
+# -- Compiling module rca8
+# -- Compiling module rca8_tb
+# -- Compiling module reg_A
+# -- Compiling module reg_A_tb
+# -- Compiling module reg_M
+# -- Compiling module reg_M_tb
+# -- Compiling module reg_Q
+# ** Error: reg_Q.v(14): near "output": syntax error, unexpected "output", expecting ')'
+# -- Compiling module reg_Q_1
+# -- Compiling module reg_Q_1_tb
+# -- Compiling module reg_Q_tb
+# -- Compiling module rotl
+# -- Compiling module rotl_tb
+# -- Compiling module rotr
+# -- Compiling module rotr_tb
+# -- Compiling module sh_reg
+# -- Compiling module sh_reg_tb
+# -- Compiling module shift_rotate_unit
+# -- Compiling module shift_rotate_unit_tb
+# -- Compiling module sla
+# -- Compiling module sla_tb
+# -- Compiling module sll
+# -- Compiling module sll_tb
+# -- Compiling module sra
+# -- Compiling module sra_tb
+# -- Compiling module srl
+# -- Compiling module srl_tb
+# -- Compiling module substractor
+# -- Compiling module substractor_tb
+# -- Compiling module xnor_wordgate
+# -- Compiling module xnor_wordgate_tb
+# -- Compiling module xor_wordgate
+# -- Compiling module xor_wordgate_tb
+# correct the compilation errors
+do run_ALU_64.txt
+# *.v
+# ALU_64_tb
+# Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+# -- Compiling module ALU_64
+# -- Compiling module ALU_64_tb
+# -- Compiling module and_wordgate
+# -- Compiling module and_wordgate_tb
+# -- Compiling module arithmetic_unit
+# -- Compiling module bitwise_and
+# -- Compiling module bitwise_and_tb
+# -- Compiling module bitwise_nand
+# -- Compiling module bitwise_nand_tb
+# -- Compiling module bitwise_nor
+# -- Compiling module bitwise_nor_tb
+# -- Compiling module bitwise_not
+# -- Compiling module bitwise_not_tb
+# -- Compiling module bitwise_or
+# -- Compiling module bitwise_or_tb
+# -- Compiling module bitwise_xnor
+# -- Compiling module bitwise_xnor_tb
+# -- Compiling module bitwise_xor
+# -- Compiling module bitwise_xor_tb
+# -- Compiling module br2
+# -- Compiling module br2_tb
+# -- Compiling module control_unit
+# -- Compiling module control_unit_tb
+# -- Compiling module counter
+# -- Compiling module counter_tb
+# -- Compiling module csea_level
+# -- Compiling module csea_level_tb
+# -- Compiling module fac
+# -- Compiling module fac_tb
+# -- Compiling module logic_unit
+# -- Compiling module logic_unit_tb
+# -- Compiling module ml_csea_8
+# -- Compiling module ml_csea_8_tb
+# -- Compiling module mux16to1
+# -- Compiling module mux16to1_tb
+# -- Compiling module mux2to1
+# -- Compiling module mux2to1_tb
+# -- Compiling module mux4to1
+# -- Compiling module mux4to1_tb
+# -- Compiling module mux8to1
+# -- Compiling module mux8to1_tb
+# -- Compiling module nand_wordgate
+# -- Compiling module nand_wordgate_tb
+# -- Compiling module nor_wordgate
+# -- Compiling module nor_wordgate_tb
+# -- Compiling module not_wordgate
+# -- Compiling module not_wordgate_tb
+# -- Compiling module or_wordgate
+# -- Compiling module or_wordgate_tb
+# -- Compiling module rca8
+# -- Compiling module rca8_tb
+# -- Compiling module reg_A
+# -- Compiling module reg_A_tb
+# -- Compiling module reg_M
+# -- Compiling module reg_M_tb
+# -- Compiling module reg_Q
+# -- Compiling module reg_Q_1
+# -- Compiling module reg_Q_1_tb
+# -- Compiling module reg_Q_tb
+# -- Compiling module rotl
+# -- Compiling module rotl_tb
+# -- Compiling module rotr
+# -- Compiling module rotr_tb
+# -- Compiling module sh_reg
+# -- Compiling module sh_reg_tb
+# -- Compiling module shift_rotate_unit
+# -- Compiling module shift_rotate_unit_tb
+# -- Compiling module sla
+# -- Compiling module sla_tb
+# -- Compiling module sll
+# -- Compiling module sll_tb
+# -- Compiling module sra
+# -- Compiling module sra_tb
+# -- Compiling module srl
+# -- Compiling module srl_tb
+# -- Compiling module substractor
+# -- Compiling module substractor_tb
+# -- Compiling module xnor_wordgate
+# -- Compiling module xnor_wordgate_tb
+# -- Compiling module xor_wordgate
+# -- Compiling module xor_wordgate_tb
+# 
+# Top level modules:
+# 	ALU_64_tb
+# 	and_wordgate_tb
+# 	bitwise_and_tb
+# 	bitwise_nand_tb
+# 	bitwise_nor_tb
+# 	bitwise_not_tb
+# 	bitwise_or_tb
+# 	bitwise_xnor_tb
+# 	bitwise_xor_tb
+# 	br2_tb
+# 	control_unit_tb
+# 	counter_tb
+# 	csea_level_tb
+# 	fac_tb
+# 	logic_unit_tb
+# 	ml_csea_8_tb
+# 	mux16to1_tb
+# 	mux2to1_tb
+# 	mux4to1_tb
+# 	mux8to1_tb
+# 	nand_wordgate_tb
+# 	nor_wordgate_tb
+# 	not_wordgate_tb
+# 	or_wordgate_tb
+# 	rca8_tb
+# 	reg_A_tb
+# 	reg_M_tb
+# 	reg_Q_1_tb
+# 	reg_Q_tb
+# 	rotl_tb
+# 	rotr_tb
+# 	sh_reg_tb
+# 	shift_rotate_unit_tb
+# 	sla_tb
+# 	sll_tb
+# 	sra_tb
+# 	srl_tb
+# 	substractor_tb
+# 	xnor_wordgate_tb
+# 	xor_wordgate_tb
+# vsim -voptargs=+acc ALU_64_tb 
+# Loading work.ALU_64_tb
+# Loading work.ALU_64
+# Loading work.arithmetic_unit
+# Loading work.reg_M
+# Loading work.reg_A
+# Loading work.reg_Q
+# Loading work.reg_Q_1
+# Loading work.counter
+# Loading work.control_unit
+# Loading work.xor_wordgate
+# Loading work.ml_csea_8
+# Loading work.logic_unit
+# Loading work.and_wordgate
+# Loading work.nand_wordgate
+# Loading work.or_wordgate
+# Loading work.nor_wordgate
+# Loading work.xnor_wordgate
+# Loading work.not_wordgate
+# Loading work.mux8to1
+# Loading work.shift_rotate_unit
+# Loading work.sll
+# Loading work.srl
+# Loading work.sla
+# Loading work.sra
+# Loading work.rotl
+# Loading work.rotr
+# Loading work.mux4to1
+# Loading work.bitwise_xor
+# Loading work.rca8
+# Loading work.csea_level
+# Loading work.mux2to1
+# Loading work.fac
+# Loading work.bitwise_and
+# Loading work.bitwise_nand
+# Loading work.bitwise_or
+# Loading work.bitwise_nor
+# Loading work.bitwise_xnor
+# Loading work.bitwise_not
+do run_ALU_64.txt
+# *.v
+# ALU_64_tb
+# Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+# -- Compiling module ALU_64
+# -- Compiling module ALU_64_tb
+# -- Compiling module and_wordgate
+# -- Compiling module and_wordgate_tb
+# -- Compiling module arithmetic_unit
+# -- Compiling module bitwise_and
+# -- Compiling module bitwise_and_tb
+# -- Compiling module bitwise_nand
+# -- Compiling module bitwise_nand_tb
+# -- Compiling module bitwise_nor
+# -- Compiling module bitwise_nor_tb
+# -- Compiling module bitwise_not
+# -- Compiling module bitwise_not_tb
+# -- Compiling module bitwise_or
+# -- Compiling module bitwise_or_tb
+# -- Compiling module bitwise_xnor
+# -- Compiling module bitwise_xnor_tb
+# -- Compiling module bitwise_xor
+# -- Compiling module bitwise_xor_tb
+# -- Compiling module br2
+# -- Compiling module br2_tb
+# -- Compiling module control_unit
+# -- Compiling module control_unit_tb
+# -- Compiling module counter
+# -- Compiling module counter_tb
+# -- Compiling module csea_level
+# -- Compiling module csea_level_tb
+# -- Compiling module fac
+# -- Compiling module fac_tb
+# -- Compiling module logic_unit
+# -- Compiling module logic_unit_tb
+# -- Compiling module ml_csea_8
+# -- Compiling module ml_csea_8_tb
+# -- Compiling module mux16to1
+# -- Compiling module mux16to1_tb
+# -- Compiling module mux2to1
+# -- Compiling module mux2to1_tb
+# -- Compiling module mux4to1
+# -- Compiling module mux4to1_tb
+# -- Compiling module mux8to1
+# -- Compiling module mux8to1_tb
+# -- Compiling module nand_wordgate
+# -- Compiling module nand_wordgate_tb
+# -- Compiling module nor_wordgate
+# -- Compiling module nor_wordgate_tb
+# -- Compiling module not_wordgate
+# -- Compiling module not_wordgate_tb
+# -- Compiling module or_wordgate
+# -- Compiling module or_wordgate_tb
+# -- Compiling module rca8
+# -- Compiling module rca8_tb
+# -- Compiling module reg_A
+# -- Compiling module reg_A_tb
+# -- Compiling module reg_M
+# -- Compiling module reg_M_tb
+# -- Compiling module reg_Q
+# -- Compiling module reg_Q_1
+# -- Compiling module reg_Q_1_tb
+# -- Compiling module reg_Q_tb
+# -- Compiling module rotl
+# -- Compiling module rotl_tb
+# -- Compiling module rotr
+# -- Compiling module rotr_tb
+# -- Compiling module sh_reg
+# -- Compiling module sh_reg_tb
+# -- Compiling module shift_rotate_unit
+# -- Compiling module shift_rotate_unit_tb
+# -- Compiling module sla
+# -- Compiling module sla_tb
+# -- Compiling module sll
+# -- Compiling module sll_tb
+# -- Compiling module sra
+# -- Compiling module sra_tb
+# -- Compiling module srl
+# -- Compiling module srl_tb
+# -- Compiling module substractor
+# -- Compiling module substractor_tb
+# -- Compiling module xnor_wordgate
+# -- Compiling module xnor_wordgate_tb
+# -- Compiling module xor_wordgate
+# -- Compiling module xor_wordgate_tb
+# 
+# Top level modules:
+# 	ALU_64_tb
+# 	and_wordgate_tb
+# 	bitwise_and_tb
+# 	bitwise_nand_tb
+# 	bitwise_nor_tb
+# 	bitwise_not_tb
+# 	bitwise_or_tb
+# 	bitwise_xnor_tb
+# 	bitwise_xor_tb
+# 	br2_tb
+# 	control_unit_tb
+# 	counter_tb
+# 	csea_level_tb
+# 	fac_tb
+# 	logic_unit_tb
+# 	ml_csea_8_tb
+# 	mux16to1_tb
+# 	mux2to1_tb
+# 	mux4to1_tb
+# 	mux8to1_tb
+# 	nand_wordgate_tb
+# 	nor_wordgate_tb
+# 	not_wordgate_tb
+# 	or_wordgate_tb
+# 	rca8_tb
+# 	reg_A_tb
+# 	reg_M_tb
+# 	reg_Q_1_tb
+# 	reg_Q_tb
+# 	rotl_tb
+# 	rotr_tb
+# 	sh_reg_tb
+# 	shift_rotate_unit_tb
+# 	sla_tb
+# 	sll_tb
+# 	sra_tb
+# 	srl_tb
+# 	substractor_tb
+# 	xnor_wordgate_tb
+# 	xor_wordgate_tb
+# vsim -voptargs=+acc ALU_64_tb 
+# Loading work.ALU_64_tb
+# Loading work.ALU_64
+# Loading work.arithmetic_unit
+# Loading work.reg_M
+# Loading work.reg_A
+# Loading work.reg_Q
+# Loading work.reg_Q_1
+# Loading work.counter
+# Loading work.control_unit
+# Loading work.xor_wordgate
+# Loading work.ml_csea_8
+# Loading work.logic_unit
+# Loading work.and_wordgate
+# Loading work.nand_wordgate
+# Loading work.or_wordgate
+# Loading work.nor_wordgate
+# Loading work.xnor_wordgate
+# Loading work.not_wordgate
+# Loading work.mux8to1
+# Loading work.shift_rotate_unit
+# Loading work.sll
+# Loading work.srl
+# Loading work.sla
+# Loading work.sra
+# Loading work.rotl
+# Loading work.rotr
+# Loading work.mux4to1
+# Loading work.bitwise_xor
+# Loading work.rca8
+# Loading work.csea_level
+# Loading work.mux2to1
+# Loading work.fac
+# Loading work.bitwise_and
+# Loading work.bitwise_nand
+# Loading work.bitwise_or
+# Loading work.bitwise_nor
+# Loading work.bitwise_xnor
+# Loading work.bitwise_not
+do run_ALU_64.txt
+# *.v
+# ALU_64_tb
+# Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+# -- Compiling module ALU_64
+# -- Compiling module ALU_64_tb
+# -- Compiling module and_wordgate
+# -- Compiling module and_wordgate_tb
+# -- Compiling module arithmetic_unit
+# -- Compiling module bitwise_and
+# -- Compiling module bitwise_and_tb
+# -- Compiling module bitwise_nand
+# -- Compiling module bitwise_nand_tb
+# -- Compiling module bitwise_nor
+# -- Compiling module bitwise_nor_tb
+# -- Compiling module bitwise_not
+# -- Compiling module bitwise_not_tb
+# -- Compiling module bitwise_or
+# -- Compiling module bitwise_or_tb
+# -- Compiling module bitwise_xnor
+# -- Compiling module bitwise_xnor_tb
+# -- Compiling module bitwise_xor
+# -- Compiling module bitwise_xor_tb
+# -- Compiling module br2
+# -- Compiling module br2_tb
+# -- Compiling module control_unit
+# -- Compiling module control_unit_tb
+# -- Compiling module counter
+# -- Compiling module counter_tb
+# -- Compiling module csea_level
+# -- Compiling module csea_level_tb
+# -- Compiling module fac
+# -- Compiling module fac_tb
+# -- Compiling module logic_unit
+# -- Compiling module logic_unit_tb
+# -- Compiling module ml_csea_8
+# -- Compiling module ml_csea_8_tb
+# -- Compiling module mux16to1
+# -- Compiling module mux16to1_tb
+# -- Compiling module mux2to1
+# -- Compiling module mux2to1_tb
+# -- Compiling module mux4to1
+# -- Compiling module mux4to1_tb
+# -- Compiling module mux8to1
+# -- Compiling module mux8to1_tb
+# -- Compiling module nand_wordgate
+# -- Compiling module nand_wordgate_tb
+# -- Compiling module nor_wordgate
+# -- Compiling module nor_wordgate_tb
+# -- Compiling module not_wordgate
+# -- Compiling module not_wordgate_tb
+# -- Compiling module or_wordgate
+# -- Compiling module or_wordgate_tb
+# -- Compiling module rca8
+# -- Compiling module rca8_tb
+# -- Compiling module reg_A
+# -- Compiling module reg_A_tb
+# -- Compiling module reg_M
+# -- Compiling module reg_M_tb
+# -- Compiling module reg_Q
+# -- Compiling module reg_Q_1
+# -- Compiling module reg_Q_1_tb
+# -- Compiling module reg_Q_tb
+# -- Compiling module rotl
+# -- Compiling module rotl_tb
+# -- Compiling module rotr
+# -- Compiling module rotr_tb
+# -- Compiling module sh_reg
+# -- Compiling module sh_reg_tb
+# -- Compiling module shift_rotate_unit
+# -- Compiling module shift_rotate_unit_tb
+# -- Compiling module sla
+# -- Compiling module sla_tb
+# -- Compiling module sll
+# -- Compiling module sll_tb
+# -- Compiling module sra
+# -- Compiling module sra_tb
+# -- Compiling module srl
+# -- Compiling module srl_tb
+# -- Compiling module substractor
+# -- Compiling module substractor_tb
+# -- Compiling module xnor_wordgate
+# -- Compiling module xnor_wordgate_tb
+# -- Compiling module xor_wordgate
+# -- Compiling module xor_wordgate_tb
+# 
+# Top level modules:
+# 	ALU_64_tb
+# 	and_wordgate_tb
+# 	bitwise_and_tb
+# 	bitwise_nand_tb
+# 	bitwise_nor_tb
+# 	bitwise_not_tb
+# 	bitwise_or_tb
+# 	bitwise_xnor_tb
+# 	bitwise_xor_tb
+# 	br2_tb
+# 	control_unit_tb
+# 	counter_tb
+# 	csea_level_tb
+# 	fac_tb
+# 	logic_unit_tb
+# 	ml_csea_8_tb
+# 	mux16to1_tb
+# 	mux2to1_tb
+# 	mux4to1_tb
+# 	mux8to1_tb
+# 	nand_wordgate_tb
+# 	nor_wordgate_tb
+# 	not_wordgate_tb
+# 	or_wordgate_tb
+# 	rca8_tb
+# 	reg_A_tb
+# 	reg_M_tb
+# 	reg_Q_1_tb
+# 	reg_Q_tb
+# 	rotl_tb
+# 	rotr_tb
+# 	sh_reg_tb
+# 	shift_rotate_unit_tb
+# 	sla_tb
+# 	sll_tb
+# 	sra_tb
+# 	srl_tb
+# 	substractor_tb
+# 	xnor_wordgate_tb
+# 	xor_wordgate_tb
+# vsim -voptargs=+acc ALU_64_tb 
+# Loading work.ALU_64_tb
+# Loading work.ALU_64
+# Loading work.arithmetic_unit
+# Loading work.reg_M
+# Loading work.reg_A
+# Loading work.reg_Q
+# Loading work.reg_Q_1
+# Loading work.counter
+# Loading work.control_unit
+# Loading work.xor_wordgate
+# Loading work.ml_csea_8
+# Loading work.logic_unit
+# Loading work.and_wordgate
+# Loading work.nand_wordgate
+# Loading work.or_wordgate
+# Loading work.nor_wordgate
+# Loading work.xnor_wordgate
+# Loading work.not_wordgate
+# Loading work.mux8to1
+# Loading work.shift_rotate_unit
+# Loading work.sll
+# Loading work.srl
+# Loading work.sla
+# Loading work.sra
+# Loading work.rotl
+# Loading work.rotr
+# Loading work.mux4to1
+# Loading work.bitwise_xor
+# Loading work.rca8
+# Loading work.csea_level
+# Loading work.mux2to1
+# Loading work.fac
+# Loading work.bitwise_and
+# Loading work.bitwise_nand
+# Loading work.bitwise_or
+# Loading work.bitwise_nor
+# Loading work.bitwise_xnor
+# Loading work.bitwise_not
+do run_ALU_64.txt
+# *.v
+# ALU_64_tb
+# Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+# -- Compiling module ALU_64
+# -- Compiling module ALU_64_tb
+# -- Compiling module and_wordgate
+# -- Compiling module and_wordgate_tb
+# -- Compiling module arithmetic_unit
+# -- Compiling module bitwise_and
+# -- Compiling module bitwise_and_tb
+# -- Compiling module bitwise_nand
+# -- Compiling module bitwise_nand_tb
+# -- Compiling module bitwise_nor
+# -- Compiling module bitwise_nor_tb
+# -- Compiling module bitwise_not
+# -- Compiling module bitwise_not_tb
+# -- Compiling module bitwise_or
+# -- Compiling module bitwise_or_tb
+# -- Compiling module bitwise_xnor
+# -- Compiling module bitwise_xnor_tb
+# -- Compiling module bitwise_xor
+# -- Compiling module bitwise_xor_tb
+# -- Compiling module br2
+# -- Compiling module br2_tb
+# -- Compiling module control_unit
+# -- Compiling module control_unit_tb
+# -- Compiling module counter
+# -- Compiling module counter_tb
+# -- Compiling module csea_level
+# -- Compiling module csea_level_tb
+# -- Compiling module fac
+# -- Compiling module fac_tb
+# -- Compiling module logic_unit
+# -- Compiling module logic_unit_tb
+# -- Compiling module ml_csea_8
+# -- Compiling module ml_csea_8_tb
+# -- Compiling module mux16to1
+# -- Compiling module mux16to1_tb
+# -- Compiling module mux2to1
+# -- Compiling module mux2to1_tb
+# -- Compiling module mux4to1
+# -- Compiling module mux4to1_tb
+# -- Compiling module mux8to1
+# -- Compiling module mux8to1_tb
+# -- Compiling module nand_wordgate
+# -- Compiling module nand_wordgate_tb
+# -- Compiling module nor_wordgate
+# -- Compiling module nor_wordgate_tb
+# -- Compiling module not_wordgate
+# -- Compiling module not_wordgate_tb
+# -- Compiling module or_wordgate
+# -- Compiling module or_wordgate_tb
+# -- Compiling module rca8
+# -- Compiling module rca8_tb
+# -- Compiling module reg_A
+# -- Compiling module reg_A_tb
+# -- Compiling module reg_M
+# -- Compiling module reg_M_tb
+# -- Compiling module reg_Q
+# -- Compiling module reg_Q_1
+# -- Compiling module reg_Q_1_tb
+# -- Compiling module reg_Q_tb
+# -- Compiling module rotl
+# -- Compiling module rotl_tb
+# -- Compiling module rotr
+# -- Compiling module rotr_tb
+# -- Compiling module sh_reg
+# -- Compiling module sh_reg_tb
+# -- Compiling module shift_rotate_unit
+# -- Compiling module shift_rotate_unit_tb
+# -- Compiling module sla
+# -- Compiling module sla_tb
+# -- Compiling module sll
+# -- Compiling module sll_tb
+# -- Compiling module sra
+# -- Compiling module sra_tb
+# -- Compiling module srl
+# -- Compiling module srl_tb
+# -- Compiling module substractor
+# -- Compiling module substractor_tb
+# -- Compiling module xnor_wordgate
+# -- Compiling module xnor_wordgate_tb
+# -- Compiling module xor_wordgate
+# -- Compiling module xor_wordgate_tb
+# 
+# Top level modules:
+# 	ALU_64_tb
+# 	and_wordgate_tb
+# 	bitwise_and_tb
+# 	bitwise_nand_tb
+# 	bitwise_nor_tb
+# 	bitwise_not_tb
+# 	bitwise_or_tb
+# 	bitwise_xnor_tb
+# 	bitwise_xor_tb
+# 	br2_tb
+# 	control_unit_tb
+# 	counter_tb
+# 	csea_level_tb
+# 	fac_tb
+# 	logic_unit_tb
+# 	ml_csea_8_tb
+# 	mux16to1_tb
+# 	mux2to1_tb
+# 	mux4to1_tb
+# 	mux8to1_tb
+# 	nand_wordgate_tb
+# 	nor_wordgate_tb
+# 	not_wordgate_tb
+# 	or_wordgate_tb
+# 	rca8_tb
+# 	reg_A_tb
+# 	reg_M_tb
+# 	reg_Q_1_tb
+# 	reg_Q_tb
+# 	rotl_tb
+# 	rotr_tb
+# 	sh_reg_tb
+# 	shift_rotate_unit_tb
+# 	sla_tb
+# 	sll_tb
+# 	sra_tb
+# 	srl_tb
+# 	substractor_tb
+# 	xnor_wordgate_tb
+# 	xor_wordgate_tb
+# vsim -voptargs=+acc ALU_64_tb 
+# Loading work.ALU_64_tb
+# Loading work.ALU_64
+# Loading work.arithmetic_unit
+# Loading work.reg_M
+# Loading work.reg_A
+# Loading work.reg_Q
+# Loading work.reg_Q_1
+# Loading work.counter
+# Loading work.control_unit
+# Loading work.xor_wordgate
+# Loading work.ml_csea_8
+# Loading work.logic_unit
+# Loading work.and_wordgate
+# Loading work.nand_wordgate
+# Loading work.or_wordgate
+# Loading work.nor_wordgate
+# Loading work.xnor_wordgate
+# Loading work.not_wordgate
+# Loading work.mux8to1
+# Loading work.shift_rotate_unit
+# Loading work.sll
+# Loading work.srl
+# Loading work.sla
+# Loading work.sra
+# Loading work.rotl
+# Loading work.rotr
+# Loading work.mux4to1
+# Loading work.bitwise_xor
+# Loading work.rca8
+# Loading work.csea_level
+# Loading work.mux2to1
+# Loading work.fac
+# Loading work.bitwise_and
+# Loading work.bitwise_nand
+# Loading work.bitwise_or
+# Loading work.bitwise_nor
+# Loading work.bitwise_xnor
+# Loading work.bitwise_not
+do run_ALU_64.txt
+# *.v
+# ALU_64_tb
+# Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+# -- Compiling module ALU_64
+# -- Compiling module ALU_64_tb
+# -- Compiling module and_wordgate
+# -- Compiling module and_wordgate_tb
+# -- Compiling module arithmetic_unit
+# -- Compiling module bitwise_and
+# -- Compiling module bitwise_and_tb
+# -- Compiling module bitwise_nand
+# -- Compiling module bitwise_nand_tb
+# -- Compiling module bitwise_nor
+# -- Compiling module bitwise_nor_tb
+# -- Compiling module bitwise_not
+# -- Compiling module bitwise_not_tb
+# -- Compiling module bitwise_or
+# -- Compiling module bitwise_or_tb
+# -- Compiling module bitwise_xnor
+# -- Compiling module bitwise_xnor_tb
+# -- Compiling module bitwise_xor
+# -- Compiling module bitwise_xor_tb
+# -- Compiling module br2
+# -- Compiling module br2_tb
+# -- Compiling module control_unit
+# -- Compiling module control_unit_tb
+# -- Compiling module counter
+# -- Compiling module counter_tb
+# -- Compiling module csea_level
+# -- Compiling module csea_level_tb
+# -- Compiling module fac
+# -- Compiling module fac_tb
+# -- Compiling module logic_unit
+# -- Compiling module logic_unit_tb
+# -- Compiling module ml_csea_8
+# -- Compiling module ml_csea_8_tb
+# -- Compiling module mux16to1
+# -- Compiling module mux16to1_tb
+# -- Compiling module mux2to1
+# -- Compiling module mux2to1_tb
+# -- Compiling module mux4to1
+# -- Compiling module mux4to1_tb
+# -- Compiling module mux8to1
+# -- Compiling module mux8to1_tb
+# -- Compiling module nand_wordgate
+# -- Compiling module nand_wordgate_tb
+# -- Compiling module nor_wordgate
+# -- Compiling module nor_wordgate_tb
+# -- Compiling module not_wordgate
+# -- Compiling module not_wordgate_tb
+# -- Compiling module or_wordgate
+# -- Compiling module or_wordgate_tb
+# -- Compiling module rca8
+# -- Compiling module rca8_tb
+# -- Compiling module reg_A
+# -- Compiling module reg_A_tb
+# -- Compiling module reg_M
+# -- Compiling module reg_M_tb
+# -- Compiling module reg_Q
+# -- Compiling module reg_Q_1
+# -- Compiling module reg_Q_1_tb
+# -- Compiling module reg_Q_tb
+# -- Compiling module rotl
+# -- Compiling module rotl_tb
+# -- Compiling module rotr
+# -- Compiling module rotr_tb
+# -- Compiling module sh_reg
+# -- Compiling module sh_reg_tb
+# -- Compiling module shift_rotate_unit
+# -- Compiling module shift_rotate_unit_tb
+# -- Compiling module sla
+# -- Compiling module sla_tb
+# -- Compiling module sll
+# -- Compiling module sll_tb
+# -- Compiling module sra
+# -- Compiling module sra_tb
+# -- Compiling module srl
+# -- Compiling module srl_tb
+# -- Compiling module substractor
+# -- Compiling module substractor_tb
+# -- Compiling module xnor_wordgate
+# -- Compiling module xnor_wordgate_tb
+# -- Compiling module xor_wordgate
+# -- Compiling module xor_wordgate_tb
+# 
+# Top level modules:
+# 	ALU_64_tb
+# 	and_wordgate_tb
+# 	bitwise_and_tb
+# 	bitwise_nand_tb
+# 	bitwise_nor_tb
+# 	bitwise_not_tb
+# 	bitwise_or_tb
+# 	bitwise_xnor_tb
+# 	bitwise_xor_tb
+# 	br2_tb
+# 	control_unit_tb
+# 	counter_tb
+# 	csea_level_tb
+# 	fac_tb
+# 	logic_unit_tb
+# 	ml_csea_8_tb
+# 	mux16to1_tb
+# 	mux2to1_tb
+# 	mux4to1_tb
+# 	mux8to1_tb
+# 	nand_wordgate_tb
+# 	nor_wordgate_tb
+# 	not_wordgate_tb
+# 	or_wordgate_tb
+# 	rca8_tb
+# 	reg_A_tb
+# 	reg_M_tb
+# 	reg_Q_1_tb
+# 	reg_Q_tb
+# 	rotl_tb
+# 	rotr_tb
+# 	sh_reg_tb
+# 	shift_rotate_unit_tb
+# 	sla_tb
+# 	sll_tb
+# 	sra_tb
+# 	srl_tb
+# 	substractor_tb
+# 	xnor_wordgate_tb
+# 	xor_wordgate_tb
+# vsim -voptargs=+acc ALU_64_tb 
+# Loading work.ALU_64_tb
+# Loading work.ALU_64
+# Loading work.arithmetic_unit
+# Loading work.reg_M
+# Loading work.reg_A
+# Loading work.reg_Q
+# Loading work.reg_Q_1
+# Loading work.counter
+# Loading work.control_unit
+# Loading work.xor_wordgate
+# Loading work.ml_csea_8
+# Loading work.logic_unit
+# Loading work.and_wordgate
+# Loading work.nand_wordgate
+# Loading work.or_wordgate
+# Loading work.nor_wordgate
+# Loading work.xnor_wordgate
+# Loading work.not_wordgate
+# Loading work.mux8to1
+# Loading work.shift_rotate_unit
+# Loading work.sll
+# Loading work.srl
+# Loading work.sla
+# Loading work.sra
+# Loading work.rotl
+# Loading work.rotr
+# Loading work.mux4to1
+# Loading work.bitwise_xor
+# Loading work.rca8
+# Loading work.csea_level
+# Loading work.mux2to1
+# Loading work.fac
+# Loading work.bitwise_and
+# Loading work.bitwise_nand
+# Loading work.bitwise_or
+# Loading work.bitwise_nor
+# Loading work.bitwise_xnor
+# Loading work.bitwise_not
+do run_ALU_64.txt
+# *.v
+# ALU_64_tb
+# Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+# -- Compiling module ALU_64
+# -- Compiling module ALU_64_tb
+# -- Compiling module and_wordgate
+# -- Compiling module and_wordgate_tb
+# -- Compiling module arithmetic_unit
+# -- Compiling module bitwise_and
+# -- Compiling module bitwise_and_tb
+# -- Compiling module bitwise_nand
+# -- Compiling module bitwise_nand_tb
+# -- Compiling module bitwise_nor
+# -- Compiling module bitwise_nor_tb
+# -- Compiling module bitwise_not
+# -- Compiling module bitwise_not_tb
+# -- Compiling module bitwise_or
+# -- Compiling module bitwise_or_tb
+# -- Compiling module bitwise_xnor
+# -- Compiling module bitwise_xnor_tb
+# -- Compiling module bitwise_xor
+# -- Compiling module bitwise_xor_tb
+# -- Compiling module br2
+# -- Compiling module br2_tb
+# -- Compiling module control_unit
+# -- Compiling module control_unit_tb
+# -- Compiling module counter
+# -- Compiling module counter_tb
+# -- Compiling module csea_level
+# -- Compiling module csea_level_tb
+# -- Compiling module fac
+# -- Compiling module fac_tb
+# -- Compiling module logic_unit
+# -- Compiling module logic_unit_tb
+# -- Compiling module ml_csea_8
+# -- Compiling module ml_csea_8_tb
+# -- Compiling module mux16to1
+# -- Compiling module mux16to1_tb
+# -- Compiling module mux2to1
+# -- Compiling module mux2to1_tb
+# -- Compiling module mux4to1
+# -- Compiling module mux4to1_tb
+# -- Compiling module mux8to1
+# -- Compiling module mux8to1_tb
+# -- Compiling module nand_wordgate
+# -- Compiling module nand_wordgate_tb
+# -- Compiling module nor_wordgate
+# -- Compiling module nor_wordgate_tb
+# -- Compiling module not_wordgate
+# -- Compiling module not_wordgate_tb
+# -- Compiling module or_wordgate
+# -- Compiling module or_wordgate_tb
+# -- Compiling module rca8
+# -- Compiling module rca8_tb
+# -- Compiling module reg_A
+# -- Compiling module reg_A_tb
+# -- Compiling module reg_M
+# -- Compiling module reg_M_tb
+# -- Compiling module reg_Q
+# -- Compiling module reg_Q_1
+# -- Compiling module reg_Q_1_tb
+# -- Compiling module reg_Q_tb
+# -- Compiling module rotl
+# -- Compiling module rotl_tb
+# -- Compiling module rotr
+# -- Compiling module rotr_tb
+# -- Compiling module sh_reg
+# -- Compiling module sh_reg_tb
+# -- Compiling module shift_rotate_unit
+# -- Compiling module shift_rotate_unit_tb
+# -- Compiling module sla
+# -- Compiling module sla_tb
+# -- Compiling module sll
+# -- Compiling module sll_tb
+# -- Compiling module sra
+# -- Compiling module sra_tb
+# -- Compiling module srl
+# -- Compiling module srl_tb
+# -- Compiling module substractor
+# -- Compiling module substractor_tb
+# -- Compiling module xnor_wordgate
+# -- Compiling module xnor_wordgate_tb
+# -- Compiling module xor_wordgate
+# -- Compiling module xor_wordgate_tb
+# 
+# Top level modules:
+# 	ALU_64_tb
+# 	and_wordgate_tb
+# 	bitwise_and_tb
+# 	bitwise_nand_tb
+# 	bitwise_nor_tb
+# 	bitwise_not_tb
+# 	bitwise_or_tb
+# 	bitwise_xnor_tb
+# 	bitwise_xor_tb
+# 	br2_tb
+# 	control_unit_tb
+# 	counter_tb
+# 	csea_level_tb
+# 	fac_tb
+# 	logic_unit_tb
+# 	ml_csea_8_tb
+# 	mux16to1_tb
+# 	mux2to1_tb
+# 	mux4to1_tb
+# 	mux8to1_tb
+# 	nand_wordgate_tb
+# 	nor_wordgate_tb
+# 	not_wordgate_tb
+# 	or_wordgate_tb
+# 	rca8_tb
+# 	reg_A_tb
+# 	reg_M_tb
+# 	reg_Q_1_tb
+# 	reg_Q_tb
+# 	rotl_tb
+# 	rotr_tb
+# 	sh_reg_tb
+# 	shift_rotate_unit_tb
+# 	sla_tb
+# 	sll_tb
+# 	sra_tb
+# 	srl_tb
+# 	substractor_tb
+# 	xnor_wordgate_tb
+# 	xor_wordgate_tb
+# vsim -voptargs=+acc ALU_64_tb 
+# Loading work.ALU_64_tb
+# Loading work.ALU_64
+# Loading work.arithmetic_unit
+# Loading work.reg_M
+# Loading work.reg_A
+# Loading work.reg_Q
+# Loading work.reg_Q_1
+# Loading work.counter
+# Loading work.control_unit
+# Loading work.xor_wordgate
+# Loading work.ml_csea_8
+# Loading work.logic_unit
+# Loading work.and_wordgate
+# Loading work.nand_wordgate
+# Loading work.or_wordgate
+# Loading work.nor_wordgate
+# Loading work.xnor_wordgate
+# Loading work.not_wordgate
+# Loading work.mux8to1
+# Loading work.shift_rotate_unit
+# Loading work.sll
+# Loading work.srl
+# Loading work.sla
+# Loading work.sra
+# Loading work.rotl
+# Loading work.rotr
+# Loading work.mux4to1
+# Loading work.bitwise_xor
+# Loading work.rca8
+# Loading work.csea_level
+# Loading work.mux2to1
+# Loading work.fac
+# Loading work.bitwise_and
+# Loading work.bitwise_nand
+# Loading work.bitwise_or
+# Loading work.bitwise_nor
+# Loading work.bitwise_xnor
+# Loading work.bitwise_not
+do run_ALU_64.txt
+# *.v
+# ALU_64_tb
+# Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+# -- Compiling module ALU_64
+# -- Compiling module ALU_64_tb
+# -- Compiling module and_wordgate
+# -- Compiling module and_wordgate_tb
+# -- Compiling module arithmetic_unit
+# -- Compiling module bitwise_and
+# -- Compiling module bitwise_and_tb
+# -- Compiling module bitwise_nand
+# -- Compiling module bitwise_nand_tb
+# -- Compiling module bitwise_nor
+# -- Compiling module bitwise_nor_tb
+# -- Compiling module bitwise_not
+# -- Compiling module bitwise_not_tb
+# -- Compiling module bitwise_or
+# -- Compiling module bitwise_or_tb
+# -- Compiling module bitwise_xnor
+# -- Compiling module bitwise_xnor_tb
+# -- Compiling module bitwise_xor
+# -- Compiling module bitwise_xor_tb
+# -- Compiling module br2
+# -- Compiling module br2_tb
+# -- Compiling module control_unit
+# -- Compiling module control_unit_tb
+# -- Compiling module counter
+# -- Compiling module counter_tb
+# -- Compiling module csea_level
+# -- Compiling module csea_level_tb
+# -- Compiling module fac
+# -- Compiling module fac_tb
+# -- Compiling module logic_unit
+# -- Compiling module logic_unit_tb
+# -- Compiling module ml_csea_8
+# -- Compiling module ml_csea_8_tb
+# -- Compiling module mux16to1
+# -- Compiling module mux16to1_tb
+# -- Compiling module mux2to1
+# -- Compiling module mux2to1_tb
+# -- Compiling module mux4to1
+# -- Compiling module mux4to1_tb
+# -- Compiling module mux8to1
+# -- Compiling module mux8to1_tb
+# -- Compiling module nand_wordgate
+# -- Compiling module nand_wordgate_tb
+# -- Compiling module nor_wordgate
+# -- Compiling module nor_wordgate_tb
+# -- Compiling module not_wordgate
+# -- Compiling module not_wordgate_tb
+# -- Compiling module or_wordgate
+# -- Compiling module or_wordgate_tb
+# -- Compiling module rca8
+# -- Compiling module rca8_tb
+# -- Compiling module reg_A
+# -- Compiling module reg_A_tb
+# -- Compiling module reg_M
+# -- Compiling module reg_M_tb
+# -- Compiling module reg_Q
+# -- Compiling module reg_Q_1
+# -- Compiling module reg_Q_1_tb
+# -- Compiling module reg_Q_tb
+# -- Compiling module rotl
+# -- Compiling module rotl_tb
+# -- Compiling module rotr
+# -- Compiling module rotr_tb
+# -- Compiling module sh_reg
+# -- Compiling module sh_reg_tb
+# -- Compiling module shift_rotate_unit
+# -- Compiling module shift_rotate_unit_tb
+# -- Compiling module sla
+# -- Compiling module sla_tb
+# -- Compiling module sll
+# -- Compiling module sll_tb
+# -- Compiling module sra
+# -- Compiling module sra_tb
+# -- Compiling module srl
+# -- Compiling module srl_tb
+# -- Compiling module substractor
+# -- Compiling module substractor_tb
+# -- Compiling module xnor_wordgate
+# -- Compiling module xnor_wordgate_tb
+# -- Compiling module xor_wordgate
+# -- Compiling module xor_wordgate_tb
+# 
+# Top level modules:
+# 	ALU_64_tb
+# 	and_wordgate_tb
+# 	bitwise_and_tb
+# 	bitwise_nand_tb
+# 	bitwise_nor_tb
+# 	bitwise_not_tb
+# 	bitwise_or_tb
+# 	bitwise_xnor_tb
+# 	bitwise_xor_tb
+# 	br2_tb
+# 	control_unit_tb
+# 	counter_tb
+# 	csea_level_tb
+# 	fac_tb
+# 	logic_unit_tb
+# 	ml_csea_8_tb
+# 	mux16to1_tb
+# 	mux2to1_tb
+# 	mux4to1_tb
+# 	mux8to1_tb
+# 	nand_wordgate_tb
+# 	nor_wordgate_tb
+# 	not_wordgate_tb
+# 	or_wordgate_tb
+# 	rca8_tb
+# 	reg_A_tb
+# 	reg_M_tb
+# 	reg_Q_1_tb
+# 	reg_Q_tb
+# 	rotl_tb
+# 	rotr_tb
+# 	sh_reg_tb
+# 	shift_rotate_unit_tb
+# 	sla_tb
+# 	sll_tb
+# 	sra_tb
+# 	srl_tb
+# 	substractor_tb
+# 	xnor_wordgate_tb
+# 	xor_wordgate_tb
+# vsim -voptargs=+acc ALU_64_tb 
+# Loading work.ALU_64_tb
+# Loading work.ALU_64
+# Loading work.arithmetic_unit
+# Loading work.reg_M
+# Loading work.reg_A
+# Loading work.reg_Q
+# Loading work.reg_Q_1
+# Loading work.counter
+# Loading work.control_unit
+# Loading work.xor_wordgate
+# Loading work.ml_csea_8
+# Loading work.logic_unit
+# Loading work.and_wordgate
+# Loading work.nand_wordgate
+# Loading work.or_wordgate
+# Loading work.nor_wordgate
+# Loading work.xnor_wordgate
+# Loading work.not_wordgate
+# Loading work.mux8to1
+# Loading work.shift_rotate_unit
+# Loading work.sll
+# Loading work.srl
+# Loading work.sla
+# Loading work.sra
+# Loading work.rotl
+# Loading work.rotr
+# Loading work.mux4to1
+# Loading work.bitwise_xor
+# Loading work.rca8
+# Loading work.csea_level
+# Loading work.mux2to1
+# Loading work.fac
+# Loading work.bitwise_and
+# Loading work.bitwise_nand
+# Loading work.bitwise_or
+# Loading work.bitwise_nor
+# Loading work.bitwise_xnor
+# Loading work.bitwise_not
+do run_ALU_64.txt
+# *.v
+# ALU_64_tb
+# Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+# -- Compiling module ALU_64
+# -- Compiling module ALU_64_tb
+# ** Warning: ALU_64_tb.v(45): [RDGN] - Redundant digits in numeric literal.
+# -- Compiling module and_wordgate
+# -- Compiling module and_wordgate_tb
+# -- Compiling module arithmetic_unit
+# -- Compiling module bitwise_and
+# -- Compiling module bitwise_and_tb
+# -- Compiling module bitwise_nand
+# -- Compiling module bitwise_nand_tb
+# -- Compiling module bitwise_nor
+# -- Compiling module bitwise_nor_tb
+# -- Compiling module bitwise_not
+# -- Compiling module bitwise_not_tb
+# -- Compiling module bitwise_or
+# -- Compiling module bitwise_or_tb
+# -- Compiling module bitwise_xnor
+# -- Compiling module bitwise_xnor_tb
+# -- Compiling module bitwise_xor
+# -- Compiling module bitwise_xor_tb
+# -- Compiling module br2
+# -- Compiling module br2_tb
+# -- Compiling module control_unit
+# -- Compiling module control_unit_tb
+# -- Compiling module counter
+# -- Compiling module counter_tb
+# -- Compiling module csea_level
+# -- Compiling module csea_level_tb
+# -- Compiling module fac
+# -- Compiling module fac_tb
+# -- Compiling module logic_unit
+# -- Compiling module logic_unit_tb
+# -- Compiling module ml_csea_8
+# -- Compiling module ml_csea_8_tb
+# -- Compiling module mux16to1
+# -- Compiling module mux16to1_tb
+# -- Compiling module mux2to1
+# -- Compiling module mux2to1_tb
+# -- Compiling module mux4to1
+# -- Compiling module mux4to1_tb
+# -- Compiling module mux8to1
+# -- Compiling module mux8to1_tb
+# -- Compiling module nand_wordgate
+# -- Compiling module nand_wordgate_tb
+# -- Compiling module nor_wordgate
+# -- Compiling module nor_wordgate_tb
+# -- Compiling module not_wordgate
+# -- Compiling module not_wordgate_tb
+# -- Compiling module or_wordgate
+# -- Compiling module or_wordgate_tb
+# -- Compiling module rca8
+# -- Compiling module rca8_tb
+# -- Compiling module reg_A
+# -- Compiling module reg_A_tb
+# -- Compiling module reg_M
+# -- Compiling module reg_M_tb
+# -- Compiling module reg_Q
+# -- Compiling module reg_Q_1
+# -- Compiling module reg_Q_1_tb
+# -- Compiling module reg_Q_tb
+# -- Compiling module rotl
+# -- Compiling module rotl_tb
+# -- Compiling module rotr
+# -- Compiling module rotr_tb
+# -- Compiling module sh_reg
+# -- Compiling module sh_reg_tb
+# -- Compiling module shift_rotate_unit
+# -- Compiling module shift_rotate_unit_tb
+# -- Compiling module sla
+# -- Compiling module sla_tb
+# -- Compiling module sll
+# -- Compiling module sll_tb
+# -- Compiling module sra
+# -- Compiling module sra_tb
+# -- Compiling module srl
+# -- Compiling module srl_tb
+# -- Compiling module substractor
+# -- Compiling module substractor_tb
+# -- Compiling module xnor_wordgate
+# -- Compiling module xnor_wordgate_tb
+# -- Compiling module xor_wordgate
+# -- Compiling module xor_wordgate_tb
+# 
+# Top level modules:
+# 	ALU_64_tb
+# 	and_wordgate_tb
+# 	bitwise_and_tb
+# 	bitwise_nand_tb
+# 	bitwise_nor_tb
+# 	bitwise_not_tb
+# 	bitwise_or_tb
+# 	bitwise_xnor_tb
+# 	bitwise_xor_tb
+# 	br2_tb
+# 	control_unit_tb
+# 	counter_tb
+# 	csea_level_tb
+# 	fac_tb
+# 	logic_unit_tb
+# 	ml_csea_8_tb
+# 	mux16to1_tb
+# 	mux2to1_tb
+# 	mux4to1_tb
+# 	mux8to1_tb
+# 	nand_wordgate_tb
+# 	nor_wordgate_tb
+# 	not_wordgate_tb
+# 	or_wordgate_tb
+# 	rca8_tb
+# 	reg_A_tb
+# 	reg_M_tb
+# 	reg_Q_1_tb
+# 	reg_Q_tb
+# 	rotl_tb
+# 	rotr_tb
+# 	sh_reg_tb
+# 	shift_rotate_unit_tb
+# 	sla_tb
+# 	sll_tb
+# 	sra_tb
+# 	srl_tb
+# 	substractor_tb
+# 	xnor_wordgate_tb
+# 	xor_wordgate_tb
+# vsim -voptargs=+acc ALU_64_tb 
+# Loading work.ALU_64_tb
+# Loading work.ALU_64
+# Loading work.arithmetic_unit
+# Loading work.reg_M
+# Loading work.reg_A
+# Loading work.reg_Q
+# Loading work.reg_Q_1
+# Loading work.counter
+# Loading work.control_unit
+# Loading work.xor_wordgate
+# Loading work.ml_csea_8
+# Loading work.logic_unit
+# Loading work.and_wordgate
+# Loading work.nand_wordgate
+# Loading work.or_wordgate
+# Loading work.nor_wordgate
+# Loading work.xnor_wordgate
+# Loading work.not_wordgate
+# Loading work.mux8to1
+# Loading work.shift_rotate_unit
+# Loading work.sll
+# Loading work.srl
+# Loading work.sla
+# Loading work.sra
+# Loading work.rotl
+# Loading work.rotr
+# Loading work.mux4to1
+# Loading work.bitwise_xor
+# Loading work.rca8
+# Loading work.csea_level
+# Loading work.mux2to1
+# Loading work.fac
+# Loading work.bitwise_and
+# Loading work.bitwise_nand
+# Loading work.bitwise_or
+# Loading work.bitwise_nor
+# Loading work.bitwise_xnor
+# Loading work.bitwise_not
+do run_ALU_64.txt
+# *.v
+# ALU_64_tb
+# Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+# -- Compiling module ALU_64
+# -- Compiling module ALU_64_tb
+# -- Compiling module and_wordgate
+# -- Compiling module and_wordgate_tb
+# -- Compiling module arithmetic_unit
+# -- Compiling module bitwise_and
+# -- Compiling module bitwise_and_tb
+# -- Compiling module bitwise_nand
+# -- Compiling module bitwise_nand_tb
+# -- Compiling module bitwise_nor
+# -- Compiling module bitwise_nor_tb
+# -- Compiling module bitwise_not
+# -- Compiling module bitwise_not_tb
+# -- Compiling module bitwise_or
+# -- Compiling module bitwise_or_tb
+# -- Compiling module bitwise_xnor
+# -- Compiling module bitwise_xnor_tb
+# -- Compiling module bitwise_xor
+# -- Compiling module bitwise_xor_tb
+# -- Compiling module br2
+# -- Compiling module br2_tb
+# -- Compiling module control_unit
+# -- Compiling module control_unit_tb
+# -- Compiling module counter
+# -- Compiling module counter_tb
+# -- Compiling module csea_level
+# -- Compiling module csea_level_tb
+# -- Compiling module fac
+# -- Compiling module fac_tb
+# -- Compiling module logic_unit
+# -- Compiling module logic_unit_tb
+# -- Compiling module ml_csea_8
+# -- Compiling module ml_csea_8_tb
+# -- Compiling module mux16to1
+# -- Compiling module mux16to1_tb
+# -- Compiling module mux2to1
+# -- Compiling module mux2to1_tb
+# -- Compiling module mux4to1
+# -- Compiling module mux4to1_tb
+# -- Compiling module mux8to1
+# -- Compiling module mux8to1_tb
+# -- Compiling module nand_wordgate
+# -- Compiling module nand_wordgate_tb
+# -- Compiling module nor_wordgate
+# -- Compiling module nor_wordgate_tb
+# -- Compiling module not_wordgate
+# -- Compiling module not_wordgate_tb
+# -- Compiling module or_wordgate
+# -- Compiling module or_wordgate_tb
+# -- Compiling module rca8
+# -- Compiling module rca8_tb
+# -- Compiling module reg_A
+# -- Compiling module reg_A_tb
+# -- Compiling module reg_M
+# -- Compiling module reg_M_tb
+# -- Compiling module reg_Q
+# -- Compiling module reg_Q_1
+# -- Compiling module reg_Q_1_tb
+# -- Compiling module reg_Q_tb
+# -- Compiling module rotl
+# -- Compiling module rotl_tb
+# -- Compiling module rotr
+# -- Compiling module rotr_tb
+# -- Compiling module sh_reg
+# -- Compiling module sh_reg_tb
+# -- Compiling module shift_rotate_unit
+# -- Compiling module shift_rotate_unit_tb
+# -- Compiling module sla
+# -- Compiling module sla_tb
+# -- Compiling module sll
+# -- Compiling module sll_tb
+# -- Compiling module sra
+# -- Compiling module sra_tb
+# -- Compiling module srl
+# -- Compiling module srl_tb
+# -- Compiling module substractor
+# -- Compiling module substractor_tb
+# -- Compiling module xnor_wordgate
+# -- Compiling module xnor_wordgate_tb
+# -- Compiling module xor_wordgate
+# -- Compiling module xor_wordgate_tb
+# 
+# Top level modules:
+# 	ALU_64_tb
+# 	and_wordgate_tb
+# 	bitwise_and_tb
+# 	bitwise_nand_tb
+# 	bitwise_nor_tb
+# 	bitwise_not_tb
+# 	bitwise_or_tb
+# 	bitwise_xnor_tb
+# 	bitwise_xor_tb
+# 	br2_tb
+# 	control_unit_tb
+# 	counter_tb
+# 	csea_level_tb
+# 	fac_tb
+# 	logic_unit_tb
+# 	ml_csea_8_tb
+# 	mux16to1_tb
+# 	mux2to1_tb
+# 	mux4to1_tb
+# 	mux8to1_tb
+# 	nand_wordgate_tb
+# 	nor_wordgate_tb
+# 	not_wordgate_tb
+# 	or_wordgate_tb
+# 	rca8_tb
+# 	reg_A_tb
+# 	reg_M_tb
+# 	reg_Q_1_tb
+# 	reg_Q_tb
+# 	rotl_tb
+# 	rotr_tb
+# 	sh_reg_tb
+# 	shift_rotate_unit_tb
+# 	sla_tb
+# 	sll_tb
+# 	sra_tb
+# 	srl_tb
+# 	substractor_tb
+# 	xnor_wordgate_tb
+# 	xor_wordgate_tb
+# vsim -voptargs=+acc ALU_64_tb 
+# Loading work.ALU_64_tb
+# Loading work.ALU_64
+# Loading work.arithmetic_unit
+# Loading work.reg_M
+# Loading work.reg_A
+# Loading work.reg_Q
+# Loading work.reg_Q_1
+# Loading work.counter
+# Loading work.control_unit
+# Loading work.xor_wordgate
+# Loading work.ml_csea_8
+# Loading work.logic_unit
+# Loading work.and_wordgate
+# Loading work.nand_wordgate
+# Loading work.or_wordgate
+# Loading work.nor_wordgate
+# Loading work.xnor_wordgate
+# Loading work.not_wordgate
+# Loading work.mux8to1
+# Loading work.shift_rotate_unit
+# Loading work.sll
+# Loading work.srl
+# Loading work.sla
+# Loading work.sra
+# Loading work.rotl
+# Loading work.rotr
+# Loading work.mux4to1
+# Loading work.bitwise_xor
+# Loading work.rca8
+# Loading work.csea_level
+# Loading work.mux2to1
+# Loading work.fac
+# Loading work.bitwise_and
+# Loading work.bitwise_nand
+# Loading work.bitwise_or
+# Loading work.bitwise_nor
+# Loading work.bitwise_xnor
+# Loading work.bitwise_not
+do run_ALU_64.txt
+# *.v
+# ALU_64_tb
+# Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+# -- Compiling module ALU_64
+# -- Compiling module ALU_64_tb
+# -- Compiling module and_wordgate
+# -- Compiling module and_wordgate_tb
+# -- Compiling module arithmetic_unit
+# -- Compiling module bitwise_and
+# -- Compiling module bitwise_and_tb
+# -- Compiling module bitwise_nand
+# -- Compiling module bitwise_nand_tb
+# -- Compiling module bitwise_nor
+# -- Compiling module bitwise_nor_tb
+# -- Compiling module bitwise_not
+# -- Compiling module bitwise_not_tb
+# -- Compiling module bitwise_or
+# -- Compiling module bitwise_or_tb
+# -- Compiling module bitwise_xnor
+# -- Compiling module bitwise_xnor_tb
+# -- Compiling module bitwise_xor
+# -- Compiling module bitwise_xor_tb
+# -- Compiling module br2
+# -- Compiling module br2_tb
+# -- Compiling module control_unit
+# -- Compiling module control_unit_tb
+# -- Compiling module counter
+# -- Compiling module counter_tb
+# -- Compiling module csea_level
+# -- Compiling module csea_level_tb
+# -- Compiling module fac
+# -- Compiling module fac_tb
+# -- Compiling module logic_unit
+# -- Compiling module logic_unit_tb
+# -- Compiling module ml_csea_8
+# -- Compiling module ml_csea_8_tb
+# -- Compiling module mux16to1
+# -- Compiling module mux16to1_tb
+# -- Compiling module mux2to1
+# -- Compiling module mux2to1_tb
+# -- Compiling module mux4to1
+# -- Compiling module mux4to1_tb
+# -- Compiling module mux8to1
+# -- Compiling module mux8to1_tb
+# -- Compiling module nand_wordgate
+# -- Compiling module nand_wordgate_tb
+# -- Compiling module nor_wordgate
+# -- Compiling module nor_wordgate_tb
+# -- Compiling module not_wordgate
+# -- Compiling module not_wordgate_tb
+# -- Compiling module or_wordgate
+# -- Compiling module or_wordgate_tb
+# -- Compiling module rca8
+# -- Compiling module rca8_tb
+# -- Compiling module reg_A
+# -- Compiling module reg_A_tb
+# -- Compiling module reg_M
+# -- Compiling module reg_M_tb
+# -- Compiling module reg_Q
+# -- Compiling module reg_Q_1
+# -- Compiling module reg_Q_1_tb
+# -- Compiling module reg_Q_tb
+# -- Compiling module rotl
+# -- Compiling module rotl_tb
+# -- Compiling module rotr
+# -- Compiling module rotr_tb
+# -- Compiling module sh_reg
+# -- Compiling module sh_reg_tb
+# -- Compiling module shift_rotate_unit
+# -- Compiling module shift_rotate_unit_tb
+# -- Compiling module sla
+# -- Compiling module sla_tb
+# -- Compiling module sll
+# -- Compiling module sll_tb
+# -- Compiling module sra
+# -- Compiling module sra_tb
+# -- Compiling module srl
+# -- Compiling module srl_tb
+# -- Compiling module substractor
+# -- Compiling module substractor_tb
+# -- Compiling module xnor_wordgate
+# -- Compiling module xnor_wordgate_tb
+# -- Compiling module xor_wordgate
+# -- Compiling module xor_wordgate_tb
+# 
+# Top level modules:
+# 	ALU_64_tb
+# 	and_wordgate_tb
+# 	bitwise_and_tb
+# 	bitwise_nand_tb
+# 	bitwise_nor_tb
+# 	bitwise_not_tb
+# 	bitwise_or_tb
+# 	bitwise_xnor_tb
+# 	bitwise_xor_tb
+# 	br2_tb
+# 	control_unit_tb
+# 	counter_tb
+# 	csea_level_tb
+# 	fac_tb
+# 	logic_unit_tb
+# 	ml_csea_8_tb
+# 	mux16to1_tb
+# 	mux2to1_tb
+# 	mux4to1_tb
+# 	mux8to1_tb
+# 	nand_wordgate_tb
+# 	nor_wordgate_tb
+# 	not_wordgate_tb
+# 	or_wordgate_tb
+# 	rca8_tb
+# 	reg_A_tb
+# 	reg_M_tb
+# 	reg_Q_1_tb
+# 	reg_Q_tb
+# 	rotl_tb
+# 	rotr_tb
+# 	sh_reg_tb
+# 	shift_rotate_unit_tb
+# 	sla_tb
+# 	sll_tb
+# 	sra_tb
+# 	srl_tb
+# 	substractor_tb
+# 	xnor_wordgate_tb
+# 	xor_wordgate_tb
+# vsim -voptargs=+acc ALU_64_tb 
+# Loading work.ALU_64_tb
+# Loading work.ALU_64
+# Loading work.arithmetic_unit
+# Loading work.reg_M
+# Loading work.reg_A
+# Loading work.reg_Q
+# Loading work.reg_Q_1
+# Loading work.counter
+# Loading work.control_unit
+# Loading work.xor_wordgate
+# Loading work.ml_csea_8
+# Loading work.logic_unit
+# Loading work.and_wordgate
+# Loading work.nand_wordgate
+# Loading work.or_wordgate
+# Loading work.nor_wordgate
+# Loading work.xnor_wordgate
+# Loading work.not_wordgate
+# Loading work.mux8to1
+# Loading work.shift_rotate_unit
+# Loading work.sll
+# Loading work.srl
+# Loading work.sla
+# Loading work.sra
+# Loading work.rotl
+# Loading work.rotr
+# Loading work.mux4to1
+# Loading work.bitwise_xor
+# Loading work.rca8
+# Loading work.csea_level
+# Loading work.mux2to1
+# Loading work.fac
+# Loading work.bitwise_and
+# Loading work.bitwise_nand
+# Loading work.bitwise_or
+# Loading work.bitwise_nor
+# Loading work.bitwise_xnor
+# Loading work.bitwise_not
+do run_ALU_64.txt
+# *.v
+# ALU_64_tb
+# Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+# -- Compiling module ALU_64
+# -- Compiling module ALU_64_tb
+# -- Compiling module and_wordgate
+# -- Compiling module and_wordgate_tb
+# -- Compiling module arithmetic_unit
+# -- Compiling module bitwise_and
+# -- Compiling module bitwise_and_tb
+# -- Compiling module bitwise_nand
+# -- Compiling module bitwise_nand_tb
+# -- Compiling module bitwise_nor
+# -- Compiling module bitwise_nor_tb
+# -- Compiling module bitwise_not
+# -- Compiling module bitwise_not_tb
+# -- Compiling module bitwise_or
+# -- Compiling module bitwise_or_tb
+# -- Compiling module bitwise_xnor
+# -- Compiling module bitwise_xnor_tb
+# -- Compiling module bitwise_xor
+# -- Compiling module bitwise_xor_tb
+# -- Compiling module br2
+# -- Compiling module br2_tb
+# -- Compiling module control_unit
+# -- Compiling module control_unit_tb
+# -- Compiling module counter
+# -- Compiling module counter_tb
+# -- Compiling module csea_level
+# -- Compiling module csea_level_tb
+# -- Compiling module fac
+# -- Compiling module fac_tb
+# -- Compiling module logic_unit
+# -- Compiling module logic_unit_tb
+# -- Compiling module ml_csea_8
+# -- Compiling module ml_csea_8_tb
+# -- Compiling module mux16to1
+# -- Compiling module mux16to1_tb
+# -- Compiling module mux2to1
+# -- Compiling module mux2to1_tb
+# -- Compiling module mux4to1
+# -- Compiling module mux4to1_tb
+# -- Compiling module mux8to1
+# -- Compiling module mux8to1_tb
+# -- Compiling module nand_wordgate
+# -- Compiling module nand_wordgate_tb
+# -- Compiling module nor_wordgate
+# -- Compiling module nor_wordgate_tb
+# -- Compiling module not_wordgate
+# -- Compiling module not_wordgate_tb
+# -- Compiling module or_wordgate
+# -- Compiling module or_wordgate_tb
+# -- Compiling module rca8
+# -- Compiling module rca8_tb
+# -- Compiling module reg_A
+# -- Compiling module reg_A_tb
+# -- Compiling module reg_M
+# -- Compiling module reg_M_tb
+# -- Compiling module reg_Q
+# -- Compiling module reg_Q_1
+# -- Compiling module reg_Q_1_tb
+# -- Compiling module reg_Q_tb
+# -- Compiling module rotl
+# -- Compiling module rotl_tb
+# -- Compiling module rotr
+# -- Compiling module rotr_tb
+# -- Compiling module sh_reg
+# -- Compiling module sh_reg_tb
+# -- Compiling module shift_rotate_unit
+# -- Compiling module shift_rotate_unit_tb
+# -- Compiling module sla
+# -- Compiling module sla_tb
+# -- Compiling module sll
+# -- Compiling module sll_tb
+# -- Compiling module sra
+# -- Compiling module sra_tb
+# -- Compiling module srl
+# -- Compiling module srl_tb
+# -- Compiling module substractor
+# -- Compiling module substractor_tb
+# -- Compiling module xnor_wordgate
+# -- Compiling module xnor_wordgate_tb
+# -- Compiling module xor_wordgate
+# -- Compiling module xor_wordgate_tb
+# 
+# Top level modules:
+# 	ALU_64_tb
+# 	and_wordgate_tb
+# 	bitwise_and_tb
+# 	bitwise_nand_tb
+# 	bitwise_nor_tb
+# 	bitwise_not_tb
+# 	bitwise_or_tb
+# 	bitwise_xnor_tb
+# 	bitwise_xor_tb
+# 	br2_tb
+# 	control_unit_tb
+# 	counter_tb
+# 	csea_level_tb
+# 	fac_tb
+# 	logic_unit_tb
+# 	ml_csea_8_tb
+# 	mux16to1_tb
+# 	mux2to1_tb
+# 	mux4to1_tb
+# 	mux8to1_tb
+# 	nand_wordgate_tb
+# 	nor_wordgate_tb
+# 	not_wordgate_tb
+# 	or_wordgate_tb
+# 	rca8_tb
+# 	reg_A_tb
+# 	reg_M_tb
+# 	reg_Q_1_tb
+# 	reg_Q_tb
+# 	rotl_tb
+# 	rotr_tb
+# 	sh_reg_tb
+# 	shift_rotate_unit_tb
+# 	sla_tb
+# 	sll_tb
+# 	sra_tb
+# 	srl_tb
+# 	substractor_tb
+# 	xnor_wordgate_tb
+# 	xor_wordgate_tb
+# vsim -voptargs=+acc ALU_64_tb 
+# Loading work.ALU_64_tb
+# Loading work.ALU_64
+# Loading work.arithmetic_unit
+# Loading work.reg_M
+# Loading work.reg_A
+# Loading work.reg_Q
+# Loading work.reg_Q_1
+# Loading work.counter
+# Loading work.control_unit
+# Loading work.xor_wordgate
+# Loading work.ml_csea_8
+# Loading work.logic_unit
+# Loading work.and_wordgate
+# Loading work.nand_wordgate
+# Loading work.or_wordgate
+# Loading work.nor_wordgate
+# Loading work.xnor_wordgate
+# Loading work.not_wordgate
+# Loading work.mux8to1
+# Loading work.shift_rotate_unit
+# Loading work.sll
+# Loading work.srl
+# Loading work.sla
+# Loading work.sra
+# Loading work.rotl
+# Loading work.rotr
+# Loading work.mux4to1
+# Loading work.bitwise_xor
+# Loading work.rca8
+# Loading work.csea_level
+# Loading work.mux2to1
+# Loading work.fac
+# Loading work.bitwise_and
+# Loading work.bitwise_nand
+# Loading work.bitwise_or
+# Loading work.bitwise_nor
+# Loading work.bitwise_xnor
+# Loading work.bitwise_not
+do run_ALU_64.txt
+# *.v
+# ALU_64_tb
+# Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+# -- Compiling module ALU_64
+# -- Compiling module ALU_64_tb
+# -- Compiling module and_wordgate
+# -- Compiling module and_wordgate_tb
+# -- Compiling module arithmetic_unit
+# -- Compiling module bitwise_and
+# -- Compiling module bitwise_and_tb
+# -- Compiling module bitwise_nand
+# -- Compiling module bitwise_nand_tb
+# -- Compiling module bitwise_nor
+# -- Compiling module bitwise_nor_tb
+# -- Compiling module bitwise_not
+# -- Compiling module bitwise_not_tb
+# -- Compiling module bitwise_or
+# -- Compiling module bitwise_or_tb
+# -- Compiling module bitwise_xnor
+# -- Compiling module bitwise_xnor_tb
+# -- Compiling module bitwise_xor
+# -- Compiling module bitwise_xor_tb
+# -- Compiling module br2
+# -- Compiling module br2_tb
+# -- Compiling module control_unit
+# -- Compiling module control_unit_tb
+# -- Compiling module counter
+# -- Compiling module counter_tb
+# -- Compiling module csea_level
+# -- Compiling module csea_level_tb
+# -- Compiling module fac
+# -- Compiling module fac_tb
+# -- Compiling module logic_unit
+# -- Compiling module logic_unit_tb
+# -- Compiling module ml_csea_8
+# -- Compiling module ml_csea_8_tb
+# -- Compiling module mux16to1
+# -- Compiling module mux16to1_tb
+# -- Compiling module mux2to1
+# -- Compiling module mux2to1_tb
+# -- Compiling module mux4to1
+# -- Compiling module mux4to1_tb
+# -- Compiling module mux8to1
+# -- Compiling module mux8to1_tb
+# -- Compiling module nand_wordgate
+# -- Compiling module nand_wordgate_tb
+# -- Compiling module nor_wordgate
+# -- Compiling module nor_wordgate_tb
+# -- Compiling module not_wordgate
+# -- Compiling module not_wordgate_tb
+# -- Compiling module or_wordgate
+# -- Compiling module or_wordgate_tb
+# -- Compiling module rca8
+# -- Compiling module rca8_tb
+# -- Compiling module reg_A
+# -- Compiling module reg_A_tb
+# -- Compiling module reg_M
+# -- Compiling module reg_M_tb
+# -- Compiling module reg_Q
+# -- Compiling module reg_Q_1
+# -- Compiling module reg_Q_1_tb
+# -- Compiling module reg_Q_tb
+# -- Compiling module rotl
+# -- Compiling module rotl_tb
+# -- Compiling module rotr
+# -- Compiling module rotr_tb
+# -- Compiling module sh_reg
+# -- Compiling module sh_reg_tb
+# -- Compiling module shift_rotate_unit
+# -- Compiling module shift_rotate_unit_tb
+# -- Compiling module sla
+# -- Compiling module sla_tb
+# -- Compiling module sll
+# -- Compiling module sll_tb
+# -- Compiling module sra
+# -- Compiling module sra_tb
+# -- Compiling module srl
+# -- Compiling module srl_tb
+# -- Compiling module substractor
+# -- Compiling module substractor_tb
+# -- Compiling module xnor_wordgate
+# -- Compiling module xnor_wordgate_tb
+# -- Compiling module xor_wordgate
+# -- Compiling module xor_wordgate_tb
+# 
+# Top level modules:
+# 	ALU_64_tb
+# 	and_wordgate_tb
+# 	bitwise_and_tb
+# 	bitwise_nand_tb
+# 	bitwise_nor_tb
+# 	bitwise_not_tb
+# 	bitwise_or_tb
+# 	bitwise_xnor_tb
+# 	bitwise_xor_tb
+# 	br2_tb
+# 	control_unit_tb
+# 	counter_tb
+# 	csea_level_tb
+# 	fac_tb
+# 	logic_unit_tb
+# 	ml_csea_8_tb
+# 	mux16to1_tb
+# 	mux2to1_tb
+# 	mux4to1_tb
+# 	mux8to1_tb
+# 	nand_wordgate_tb
+# 	nor_wordgate_tb
+# 	not_wordgate_tb
+# 	or_wordgate_tb
+# 	rca8_tb
+# 	reg_A_tb
+# 	reg_M_tb
+# 	reg_Q_1_tb
+# 	reg_Q_tb
+# 	rotl_tb
+# 	rotr_tb
+# 	sh_reg_tb
+# 	shift_rotate_unit_tb
+# 	sla_tb
+# 	sll_tb
+# 	sra_tb
+# 	srl_tb
+# 	substractor_tb
+# 	xnor_wordgate_tb
+# 	xor_wordgate_tb
+# vsim -voptargs=+acc ALU_64_tb 
+# Loading work.ALU_64_tb
+# Loading work.ALU_64
+# Loading work.arithmetic_unit
+# Loading work.reg_M
+# Loading work.reg_A
+# Loading work.reg_Q
+# Loading work.reg_Q_1
+# Loading work.counter
+# Loading work.control_unit
+# Loading work.xor_wordgate
+# Loading work.ml_csea_8
+# Loading work.logic_unit
+# Loading work.and_wordgate
+# Loading work.nand_wordgate
+# Loading work.or_wordgate
+# Loading work.nor_wordgate
+# Loading work.xnor_wordgate
+# Loading work.not_wordgate
+# Loading work.mux8to1
+# Loading work.shift_rotate_unit
+# Loading work.sll
+# Loading work.srl
+# Loading work.sla
+# Loading work.sra
+# Loading work.rotl
+# Loading work.rotr
+# Loading work.mux4to1
+# Loading work.bitwise_xor
+# Loading work.rca8
+# Loading work.csea_level
+# Loading work.mux2to1
+# Loading work.fac
+# Loading work.bitwise_and
+# Loading work.bitwise_nand
+# Loading work.bitwise_or
+# Loading work.bitwise_nor
+# Loading work.bitwise_xnor
+# Loading work.bitwise_not
+do run_ALU_64.txt
+# *.v
+# ALU_64_tb
+# Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+# -- Compiling module ALU_64
+# -- Compiling module ALU_64_tb
+# -- Compiling module and_wordgate
+# -- Compiling module and_wordgate_tb
+# -- Compiling module arithmetic_unit
+# -- Compiling module bitwise_and
+# -- Compiling module bitwise_and_tb
+# -- Compiling module bitwise_nand
+# -- Compiling module bitwise_nand_tb
+# -- Compiling module bitwise_nor
+# -- Compiling module bitwise_nor_tb
+# -- Compiling module bitwise_not
+# -- Compiling module bitwise_not_tb
+# -- Compiling module bitwise_or
+# -- Compiling module bitwise_or_tb
+# -- Compiling module bitwise_xnor
+# -- Compiling module bitwise_xnor_tb
+# -- Compiling module bitwise_xor
+# -- Compiling module bitwise_xor_tb
+# -- Compiling module br2
+# -- Compiling module br2_tb
+# -- Compiling module control_unit
+# -- Compiling module control_unit_tb
+# -- Compiling module counter
+# -- Compiling module counter_tb
+# -- Compiling module csea_level
+# -- Compiling module csea_level_tb
+# -- Compiling module fac
+# -- Compiling module fac_tb
+# -- Compiling module logic_unit
+# -- Compiling module logic_unit_tb
+# -- Compiling module ml_csea_8
+# -- Compiling module ml_csea_8_tb
+# -- Compiling module mux16to1
+# -- Compiling module mux16to1_tb
+# -- Compiling module mux2to1
+# -- Compiling module mux2to1_tb
+# -- Compiling module mux4to1
+# -- Compiling module mux4to1_tb
+# -- Compiling module mux8to1
+# -- Compiling module mux8to1_tb
+# -- Compiling module nand_wordgate
+# -- Compiling module nand_wordgate_tb
+# -- Compiling module nor_wordgate
+# -- Compiling module nor_wordgate_tb
+# -- Compiling module not_wordgate
+# -- Compiling module not_wordgate_tb
+# -- Compiling module or_wordgate
+# -- Compiling module or_wordgate_tb
+# -- Compiling module rca8
+# -- Compiling module rca8_tb
+# -- Compiling module reg_A
+# -- Compiling module reg_A_tb
+# -- Compiling module reg_M
+# -- Compiling module reg_M_tb
+# -- Compiling module reg_Q
+# -- Compiling module reg_Q_1
+# -- Compiling module reg_Q_1_tb
+# -- Compiling module reg_Q_tb
+# -- Compiling module rotl
+# -- Compiling module rotl_tb
+# -- Compiling module rotr
+# -- Compiling module rotr_tb
+# -- Compiling module sh_reg
+# -- Compiling module sh_reg_tb
+# -- Compiling module shift_rotate_unit
+# -- Compiling module shift_rotate_unit_tb
+# -- Compiling module sla
+# -- Compiling module sla_tb
+# -- Compiling module sll
+# -- Compiling module sll_tb
+# -- Compiling module sra
+# -- Compiling module sra_tb
+# -- Compiling module srl
+# -- Compiling module srl_tb
+# -- Compiling module substractor
+# -- Compiling module substractor_tb
+# -- Compiling module xnor_wordgate
+# -- Compiling module xnor_wordgate_tb
+# -- Compiling module xor_wordgate
+# -- Compiling module xor_wordgate_tb
+# 
+# Top level modules:
+# 	ALU_64_tb
+# 	and_wordgate_tb
+# 	bitwise_and_tb
+# 	bitwise_nand_tb
+# 	bitwise_nor_tb
+# 	bitwise_not_tb
+# 	bitwise_or_tb
+# 	bitwise_xnor_tb
+# 	bitwise_xor_tb
+# 	br2_tb
+# 	control_unit_tb
+# 	counter_tb
+# 	csea_level_tb
+# 	fac_tb
+# 	logic_unit_tb
+# 	ml_csea_8_tb
+# 	mux16to1_tb
+# 	mux2to1_tb
+# 	mux4to1_tb
+# 	mux8to1_tb
+# 	nand_wordgate_tb
+# 	nor_wordgate_tb
+# 	not_wordgate_tb
+# 	or_wordgate_tb
+# 	rca8_tb
+# 	reg_A_tb
+# 	reg_M_tb
+# 	reg_Q_1_tb
+# 	reg_Q_tb
+# 	rotl_tb
+# 	rotr_tb
+# 	sh_reg_tb
+# 	shift_rotate_unit_tb
+# 	sla_tb
+# 	sll_tb
+# 	sra_tb
+# 	srl_tb
+# 	substractor_tb
+# 	xnor_wordgate_tb
+# 	xor_wordgate_tb
+# vsim -voptargs=+acc ALU_64_tb 
+# Loading work.ALU_64_tb
+# Loading work.ALU_64
+# Loading work.arithmetic_unit
+# Loading work.reg_M
+# Loading work.reg_A
+# Loading work.reg_Q
+# Loading work.reg_Q_1
+# Loading work.counter
+# Loading work.control_unit
+# Loading work.xor_wordgate
+# Loading work.ml_csea_8
+# Loading work.logic_unit
+# Loading work.and_wordgate
+# Loading work.nand_wordgate
+# Loading work.or_wordgate
+# Loading work.nor_wordgate
+# Loading work.xnor_wordgate
+# Loading work.not_wordgate
+# Loading work.mux8to1
+# Loading work.shift_rotate_unit
+# Loading work.sll
+# Loading work.srl
+# Loading work.sla
+# Loading work.sra
+# Loading work.rotl
+# Loading work.rotr
+# Loading work.mux4to1
+# Loading work.bitwise_xor
+# Loading work.rca8
+# Loading work.csea_level
+# Loading work.mux2to1
+# Loading work.fac
+# Loading work.bitwise_and
+# Loading work.bitwise_nand
+# Loading work.bitwise_or
+# Loading work.bitwise_nor
+# Loading work.bitwise_xnor
+# Loading work.bitwise_not
+do run_ALU_64.txt
+# *.v
+# ALU_64_tb
+# Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+# -- Compiling module ALU_64
+# -- Compiling module ALU_64_tb
+# -- Compiling module and_wordgate
+# -- Compiling module and_wordgate_tb
+# -- Compiling module arithmetic_unit
+# -- Compiling module bitwise_and
+# -- Compiling module bitwise_and_tb
+# -- Compiling module bitwise_nand
+# -- Compiling module bitwise_nand_tb
+# -- Compiling module bitwise_nor
+# -- Compiling module bitwise_nor_tb
+# -- Compiling module bitwise_not
+# -- Compiling module bitwise_not_tb
+# -- Compiling module bitwise_or
+# -- Compiling module bitwise_or_tb
+# -- Compiling module bitwise_xnor
+# -- Compiling module bitwise_xnor_tb
+# -- Compiling module bitwise_xor
+# -- Compiling module bitwise_xor_tb
+# -- Compiling module br2
+# -- Compiling module br2_tb
+# -- Compiling module control_unit
+# -- Compiling module control_unit_tb
+# -- Compiling module counter
+# -- Compiling module counter_tb
+# -- Compiling module csea_level
+# -- Compiling module csea_level_tb
+# -- Compiling module fac
+# -- Compiling module fac_tb
+# -- Compiling module logic_unit
+# -- Compiling module logic_unit_tb
+# -- Compiling module ml_csea_8
+# -- Compiling module ml_csea_8_tb
+# -- Compiling module mux16to1
+# -- Compiling module mux16to1_tb
+# -- Compiling module mux2to1
+# -- Compiling module mux2to1_tb
+# -- Compiling module mux4to1
+# -- Compiling module mux4to1_tb
+# -- Compiling module mux8to1
+# -- Compiling module mux8to1_tb
+# -- Compiling module nand_wordgate
+# -- Compiling module nand_wordgate_tb
+# -- Compiling module nor_wordgate
+# -- Compiling module nor_wordgate_tb
+# -- Compiling module not_wordgate
+# -- Compiling module not_wordgate_tb
+# -- Compiling module or_wordgate
+# -- Compiling module or_wordgate_tb
+# -- Compiling module rca8
+# -- Compiling module rca8_tb
+# -- Compiling module reg_A
+# -- Compiling module reg_A_tb
+# -- Compiling module reg_M
+# -- Compiling module reg_M_tb
+# -- Compiling module reg_Q
+# -- Compiling module reg_Q_1
+# -- Compiling module reg_Q_1_tb
+# -- Compiling module reg_Q_tb
+# -- Compiling module rotl
+# -- Compiling module rotl_tb
+# -- Compiling module rotr
+# -- Compiling module rotr_tb
+# -- Compiling module sh_reg
+# -- Compiling module sh_reg_tb
+# -- Compiling module shift_rotate_unit
+# -- Compiling module shift_rotate_unit_tb
+# -- Compiling module sla
+# -- Compiling module sla_tb
+# -- Compiling module sll
+# -- Compiling module sll_tb
+# -- Compiling module sra
+# -- Compiling module sra_tb
+# -- Compiling module srl
+# -- Compiling module srl_tb
+# -- Compiling module substractor
+# -- Compiling module substractor_tb
+# -- Compiling module xnor_wordgate
+# -- Compiling module xnor_wordgate_tb
+# -- Compiling module xor_wordgate
+# -- Compiling module xor_wordgate_tb
+# 
+# Top level modules:
+# 	ALU_64_tb
+# 	and_wordgate_tb
+# 	bitwise_and_tb
+# 	bitwise_nand_tb
+# 	bitwise_nor_tb
+# 	bitwise_not_tb
+# 	bitwise_or_tb
+# 	bitwise_xnor_tb
+# 	bitwise_xor_tb
+# 	br2_tb
+# 	control_unit_tb
+# 	counter_tb
+# 	csea_level_tb
+# 	fac_tb
+# 	logic_unit_tb
+# 	ml_csea_8_tb
+# 	mux16to1_tb
+# 	mux2to1_tb
+# 	mux4to1_tb
+# 	mux8to1_tb
+# 	nand_wordgate_tb
+# 	nor_wordgate_tb
+# 	not_wordgate_tb
+# 	or_wordgate_tb
+# 	rca8_tb
+# 	reg_A_tb
+# 	reg_M_tb
+# 	reg_Q_1_tb
+# 	reg_Q_tb
+# 	rotl_tb
+# 	rotr_tb
+# 	sh_reg_tb
+# 	shift_rotate_unit_tb
+# 	sla_tb
+# 	sll_tb
+# 	sra_tb
+# 	srl_tb
+# 	substractor_tb
+# 	xnor_wordgate_tb
+# 	xor_wordgate_tb
+# vsim -voptargs=+acc ALU_64_tb 
+# Loading work.ALU_64_tb
+# Loading work.ALU_64
+# Loading work.arithmetic_unit
+# Loading work.reg_M
+# Loading work.reg_A
+# Loading work.reg_Q
+# Loading work.reg_Q_1
+# Loading work.counter
+# Loading work.control_unit
+# Loading work.xor_wordgate
+# Loading work.ml_csea_8
+# Loading work.logic_unit
+# Loading work.and_wordgate
+# Loading work.nand_wordgate
+# Loading work.or_wordgate
+# Loading work.nor_wordgate
+# Loading work.xnor_wordgate
+# Loading work.not_wordgate
+# Loading work.mux8to1
+# Loading work.shift_rotate_unit
+# Loading work.sll
+# Loading work.srl
+# Loading work.sla
+# Loading work.sra
+# Loading work.rotl
+# Loading work.rotr
+# Loading work.mux4to1
+# Loading work.bitwise_xor
+# Loading work.rca8
+# Loading work.csea_level
+# Loading work.mux2to1
+# Loading work.fac
+# Loading work.bitwise_and
+# Loading work.bitwise_nand
+# Loading work.bitwise_or
+# Loading work.bitwise_nor
+# Loading work.bitwise_xnor
+# Loading work.bitwise_not
+do run_ALU_64.txt
+# *.v
+# ALU_64_tb
+# Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+# -- Compiling module ALU_64
+# -- Compiling module ALU_64_tb
+# -- Compiling module and_wordgate
+# -- Compiling module and_wordgate_tb
+# -- Compiling module arithmetic_unit
+# -- Compiling module bitwise_and
+# -- Compiling module bitwise_and_tb
+# -- Compiling module bitwise_nand
+# -- Compiling module bitwise_nand_tb
+# -- Compiling module bitwise_nor
+# -- Compiling module bitwise_nor_tb
+# -- Compiling module bitwise_not
+# -- Compiling module bitwise_not_tb
+# -- Compiling module bitwise_or
+# -- Compiling module bitwise_or_tb
+# -- Compiling module bitwise_xnor
+# -- Compiling module bitwise_xnor_tb
+# -- Compiling module bitwise_xor
+# -- Compiling module bitwise_xor_tb
+# -- Compiling module br2
+# -- Compiling module br2_tb
+# -- Compiling module control_unit
+# -- Compiling module control_unit_tb
+# -- Compiling module counter
+# -- Compiling module counter_tb
+# -- Compiling module csea_level
+# -- Compiling module csea_level_tb
+# -- Compiling module fac
+# -- Compiling module fac_tb
+# -- Compiling module logic_unit
+# -- Compiling module logic_unit_tb
+# -- Compiling module ml_csea_8
+# -- Compiling module ml_csea_8_tb
+# -- Compiling module mux16to1
+# -- Compiling module mux16to1_tb
+# -- Compiling module mux2to1
+# -- Compiling module mux2to1_tb
+# -- Compiling module mux4to1
+# -- Compiling module mux4to1_tb
+# -- Compiling module mux8to1
+# -- Compiling module mux8to1_tb
+# -- Compiling module nand_wordgate
+# -- Compiling module nand_wordgate_tb
+# -- Compiling module nor_wordgate
+# -- Compiling module nor_wordgate_tb
+# -- Compiling module not_wordgate
+# -- Compiling module not_wordgate_tb
+# -- Compiling module or_wordgate
+# -- Compiling module or_wordgate_tb
+# -- Compiling module rca8
+# -- Compiling module rca8_tb
+# -- Compiling module reg_A
+# -- Compiling module reg_A_tb
+# -- Compiling module reg_M
+# -- Compiling module reg_M_tb
+# -- Compiling module reg_Q
+# -- Compiling module reg_Q_1
+# -- Compiling module reg_Q_1_tb
+# -- Compiling module reg_Q_tb
+# -- Compiling module rotl
+# -- Compiling module rotl_tb
+# -- Compiling module rotr
+# -- Compiling module rotr_tb
+# -- Compiling module sh_reg
+# -- Compiling module sh_reg_tb
+# -- Compiling module shift_rotate_unit
+# -- Compiling module shift_rotate_unit_tb
+# -- Compiling module sla
+# -- Compiling module sla_tb
+# -- Compiling module sll
+# -- Compiling module sll_tb
+# -- Compiling module sra
+# -- Compiling module sra_tb
+# -- Compiling module srl
+# -- Compiling module srl_tb
+# -- Compiling module substractor
+# -- Compiling module substractor_tb
+# -- Compiling module xnor_wordgate
+# -- Compiling module xnor_wordgate_tb
+# -- Compiling module xor_wordgate
+# -- Compiling module xor_wordgate_tb
+# 
+# Top level modules:
+# 	ALU_64_tb
+# 	and_wordgate_tb
+# 	bitwise_and_tb
+# 	bitwise_nand_tb
+# 	bitwise_nor_tb
+# 	bitwise_not_tb
+# 	bitwise_or_tb
+# 	bitwise_xnor_tb
+# 	bitwise_xor_tb
+# 	br2_tb
+# 	control_unit_tb
+# 	counter_tb
+# 	csea_level_tb
+# 	fac_tb
+# 	logic_unit_tb
+# 	ml_csea_8_tb
+# 	mux16to1_tb
+# 	mux2to1_tb
+# 	mux4to1_tb
+# 	mux8to1_tb
+# 	nand_wordgate_tb
+# 	nor_wordgate_tb
+# 	not_wordgate_tb
+# 	or_wordgate_tb
+# 	rca8_tb
+# 	reg_A_tb
+# 	reg_M_tb
+# 	reg_Q_1_tb
+# 	reg_Q_tb
+# 	rotl_tb
+# 	rotr_tb
+# 	sh_reg_tb
+# 	shift_rotate_unit_tb
+# 	sla_tb
+# 	sll_tb
+# 	sra_tb
+# 	srl_tb
+# 	substractor_tb
+# 	xnor_wordgate_tb
+# 	xor_wordgate_tb
+# vsim -voptargs=+acc ALU_64_tb 
+# Loading work.ALU_64_tb
+# Loading work.ALU_64
+# Loading work.arithmetic_unit
+# Loading work.reg_M
+# Loading work.reg_A
+# Loading work.reg_Q
+# Loading work.reg_Q_1
+# Loading work.counter
+# Loading work.control_unit
+# Loading work.xor_wordgate
+# Loading work.ml_csea_8
+# Loading work.logic_unit
+# Loading work.and_wordgate
+# Loading work.nand_wordgate
+# Loading work.or_wordgate
+# Loading work.nor_wordgate
+# Loading work.xnor_wordgate
+# Loading work.not_wordgate
+# Loading work.mux8to1
+# Loading work.shift_rotate_unit
+# Loading work.sll
+# Loading work.srl
+# Loading work.sla
+# Loading work.sra
+# Loading work.rotl
+# Loading work.rotr
+# Loading work.mux4to1
+# Loading work.bitwise_xor
+# Loading work.rca8
+# Loading work.csea_level
+# Loading work.mux2to1
+# Loading work.fac
+# Loading work.bitwise_and
+# Loading work.bitwise_nand
+# Loading work.bitwise_or
+# Loading work.bitwise_nor
+# Loading work.bitwise_xnor
+# Loading work.bitwise_not
+do run_ALU_64.txt
+# *.v
+# ALU_64_tb
+# Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+# -- Compiling module ALU_64
+# -- Compiling module ALU_64_tb
+# -- Compiling module and_wordgate
+# -- Compiling module and_wordgate_tb
+# -- Compiling module arithmetic_unit
+# -- Compiling module bitwise_and
+# -- Compiling module bitwise_and_tb
+# -- Compiling module bitwise_nand
+# -- Compiling module bitwise_nand_tb
+# -- Compiling module bitwise_nor
+# -- Compiling module bitwise_nor_tb
+# -- Compiling module bitwise_not
+# -- Compiling module bitwise_not_tb
+# -- Compiling module bitwise_or
+# -- Compiling module bitwise_or_tb
+# -- Compiling module bitwise_xnor
+# -- Compiling module bitwise_xnor_tb
+# -- Compiling module bitwise_xor
+# -- Compiling module bitwise_xor_tb
+# -- Compiling module br2
+# -- Compiling module br2_tb
+# -- Compiling module control_unit
+# -- Compiling module control_unit_tb
+# -- Compiling module counter
+# -- Compiling module counter_tb
+# -- Compiling module csea_level
+# -- Compiling module csea_level_tb
+# -- Compiling module fac
+# -- Compiling module fac_tb
+# -- Compiling module logic_unit
+# -- Compiling module logic_unit_tb
+# -- Compiling module ml_csea_8
+# -- Compiling module ml_csea_8_tb
+# -- Compiling module mux16to1
+# -- Compiling module mux16to1_tb
+# -- Compiling module mux2to1
+# -- Compiling module mux2to1_tb
+# -- Compiling module mux4to1
+# -- Compiling module mux4to1_tb
+# -- Compiling module mux8to1
+# -- Compiling module mux8to1_tb
+# -- Compiling module nand_wordgate
+# -- Compiling module nand_wordgate_tb
+# -- Compiling module nor_wordgate
+# -- Compiling module nor_wordgate_tb
+# -- Compiling module not_wordgate
+# -- Compiling module not_wordgate_tb
+# -- Compiling module or_wordgate
+# -- Compiling module or_wordgate_tb
+# -- Compiling module rca8
+# -- Compiling module rca8_tb
+# -- Compiling module reg_A
+# -- Compiling module reg_A_tb
+# -- Compiling module reg_M
+# -- Compiling module reg_M_tb
+# -- Compiling module reg_Q
+# -- Compiling module reg_Q_1
+# -- Compiling module reg_Q_1_tb
+# -- Compiling module reg_Q_tb
+# -- Compiling module rotl
+# -- Compiling module rotl_tb
+# -- Compiling module rotr
+# -- Compiling module rotr_tb
+# -- Compiling module sh_reg
+# -- Compiling module sh_reg_tb
+# -- Compiling module shift_rotate_unit
+# -- Compiling module shift_rotate_unit_tb
+# -- Compiling module sla
+# -- Compiling module sla_tb
+# -- Compiling module sll
+# -- Compiling module sll_tb
+# -- Compiling module sra
+# -- Compiling module sra_tb
+# -- Compiling module srl
+# -- Compiling module srl_tb
+# -- Compiling module substractor
+# -- Compiling module substractor_tb
+# -- Compiling module xnor_wordgate
+# -- Compiling module xnor_wordgate_tb
+# -- Compiling module xor_wordgate
+# -- Compiling module xor_wordgate_tb
+# 
+# Top level modules:
+# 	ALU_64_tb
+# 	and_wordgate_tb
+# 	bitwise_and_tb
+# 	bitwise_nand_tb
+# 	bitwise_nor_tb
+# 	bitwise_not_tb
+# 	bitwise_or_tb
+# 	bitwise_xnor_tb
+# 	bitwise_xor_tb
+# 	br2_tb
+# 	control_unit_tb
+# 	counter_tb
+# 	csea_level_tb
+# 	fac_tb
+# 	logic_unit_tb
+# 	ml_csea_8_tb
+# 	mux16to1_tb
+# 	mux2to1_tb
+# 	mux4to1_tb
+# 	mux8to1_tb
+# 	nand_wordgate_tb
+# 	nor_wordgate_tb
+# 	not_wordgate_tb
+# 	or_wordgate_tb
+# 	rca8_tb
+# 	reg_A_tb
+# 	reg_M_tb
+# 	reg_Q_1_tb
+# 	reg_Q_tb
+# 	rotl_tb
+# 	rotr_tb
+# 	sh_reg_tb
+# 	shift_rotate_unit_tb
+# 	sla_tb
+# 	sll_tb
+# 	sra_tb
+# 	srl_tb
+# 	substractor_tb
+# 	xnor_wordgate_tb
+# 	xor_wordgate_tb
+# vsim -voptargs=+acc ALU_64_tb 
+# Loading work.ALU_64_tb
+# Loading work.ALU_64
+# Loading work.arithmetic_unit
+# Loading work.reg_M
+# Loading work.reg_A
+# Loading work.reg_Q
+# Loading work.reg_Q_1
+# Loading work.counter
+# Loading work.control_unit
+# Loading work.xor_wordgate
+# Loading work.ml_csea_8
+# Loading work.logic_unit
+# Loading work.and_wordgate
+# Loading work.nand_wordgate
+# Loading work.or_wordgate
+# Loading work.nor_wordgate
+# Loading work.xnor_wordgate
+# Loading work.not_wordgate
+# Loading work.mux8to1
+# Loading work.shift_rotate_unit
+# Loading work.sll
+# Loading work.srl
+# Loading work.sla
+# Loading work.sra
+# Loading work.rotl
+# Loading work.rotr
+# Loading work.mux4to1
+# Loading work.bitwise_xor
+# Loading work.rca8
+# Loading work.csea_level
+# Loading work.mux2to1
+# Loading work.fac
+# Loading work.bitwise_and
+# Loading work.bitwise_nand
+# Loading work.bitwise_or
+# Loading work.bitwise_nor
+# Loading work.bitwise_xnor
+# Loading work.bitwise_not
+
+do run_ALU_64.txt
+# *.v
+# ALU_64_tb
+# Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+# -- Compiling module ALU_64
+# -- Compiling module ALU_64_tb
+# -- Compiling module and_wordgate
+# -- Compiling module and_wordgate_tb
+# -- Compiling module arithmetic_unit
+# -- Compiling module bitwise_and
+# -- Compiling module bitwise_and_tb
+# -- Compiling module bitwise_nand
+# -- Compiling module bitwise_nand_tb
+# -- Compiling module bitwise_nor
+# -- Compiling module bitwise_nor_tb
+# -- Compiling module bitwise_not
+# -- Compiling module bitwise_not_tb
+# -- Compiling module bitwise_or
+# -- Compiling module bitwise_or_tb
+# -- Compiling module bitwise_xnor
+# -- Compiling module bitwise_xnor_tb
+# -- Compiling module bitwise_xor
+# -- Compiling module bitwise_xor_tb
+# -- Compiling module br2
+# -- Compiling module br2_tb
+# -- Compiling module control_unit
+# -- Compiling module control_unit_tb
+# -- Compiling module counter
+# -- Compiling module counter_tb
+# -- Compiling module csea_level
+# -- Compiling module csea_level_tb
+# -- Compiling module fac
+# -- Compiling module fac_tb
+# -- Compiling module logic_unit
+# -- Compiling module logic_unit_tb
+# -- Compiling module ml_csea_8
+# -- Compiling module ml_csea_8_tb
+# -- Compiling module mux16to1
+# -- Compiling module mux16to1_tb
+# -- Compiling module mux2to1
+# -- Compiling module mux2to1_tb
+# -- Compiling module mux4to1
+# -- Compiling module mux4to1_tb
+# -- Compiling module mux8to1
+# -- Compiling module mux8to1_tb
+# -- Compiling module nand_wordgate
+# -- Compiling module nand_wordgate_tb
+# -- Compiling module nor_wordgate
+# -- Compiling module nor_wordgate_tb
+# -- Compiling module not_wordgate
+# -- Compiling module not_wordgate_tb
+# -- Compiling module or_wordgate
+# -- Compiling module or_wordgate_tb
+# -- Compiling module rca8
+# -- Compiling module rca8_tb
+# -- Compiling module reg_A
+# -- Compiling module reg_A_tb
+# -- Compiling module reg_M
+# -- Compiling module reg_M_tb
+# -- Compiling module reg_Q
+# -- Compiling module reg_Q_1
+# -- Compiling module reg_Q_1_tb
+# -- Compiling module reg_Q_tb
+# -- Compiling module rotl
+# -- Compiling module rotl_tb
+# -- Compiling module rotr
+# -- Compiling module rotr_tb
+# -- Compiling module sh_reg
+# -- Compiling module sh_reg_tb
+# -- Compiling module shift_rotate_unit
+# -- Compiling module shift_rotate_unit_tb
+# -- Compiling module sla
+# -- Compiling module sla_tb
+# -- Compiling module sll
+# -- Compiling module sll_tb
+# -- Compiling module sra
+# -- Compiling module sra_tb
+# -- Compiling module srl
+# -- Compiling module srl_tb
+# -- Compiling module substractor
+# -- Compiling module substractor_tb
+# -- Compiling module xnor_wordgate
+# -- Compiling module xnor_wordgate_tb
+# -- Compiling module xor_wordgate
+# -- Compiling module xor_wordgate_tb
+# 
+# Top level modules:
+# 	ALU_64_tb
+# 	and_wordgate_tb
+# 	bitwise_and_tb
+# 	bitwise_nand_tb
+# 	bitwise_nor_tb
+# 	bitwise_not_tb
+# 	bitwise_or_tb
+# 	bitwise_xnor_tb
+# 	bitwise_xor_tb
+# 	br2_tb
+# 	control_unit_tb
+# 	counter_tb
+# 	csea_level_tb
+# 	fac_tb
+# 	logic_unit_tb
+# 	ml_csea_8_tb
+# 	mux16to1_tb
+# 	mux2to1_tb
+# 	mux4to1_tb
+# 	mux8to1_tb
+# 	nand_wordgate_tb
+# 	nor_wordgate_tb
+# 	not_wordgate_tb
+# 	or_wordgate_tb
+# 	rca8_tb
+# 	reg_A_tb
+# 	reg_M_tb
+# 	reg_Q_1_tb
+# 	reg_Q_tb
+# 	rotl_tb
+# 	rotr_tb
+# 	sh_reg_tb
+# 	shift_rotate_unit_tb
+# 	sla_tb
+# 	sll_tb
+# 	sra_tb
+# 	srl_tb
+# 	substractor_tb
+# 	xnor_wordgate_tb
+# 	xor_wordgate_tb
+# vsim -voptargs=+acc ALU_64_tb 
+# Loading work.ALU_64_tb
+# Loading work.ALU_64
+# Loading work.arithmetic_unit
+# Loading work.reg_M
+# Loading work.reg_A
+# Loading work.reg_Q
+# Loading work.reg_Q_1
+# Loading work.counter
+# Loading work.control_unit
+# Loading work.xor_wordgate
+# Loading work.ml_csea_8
+# Loading work.logic_unit
+# Loading work.and_wordgate
+# Loading work.nand_wordgate
+# Loading work.or_wordgate
+# Loading work.nor_wordgate
+# Loading work.xnor_wordgate
+# Loading work.not_wordgate
+# Loading work.mux8to1
+# Loading work.shift_rotate_unit
+# Loading work.sll
+# Loading work.srl
+# Loading work.sla
+# Loading work.sra
+# Loading work.rotl
+# Loading work.rotr
+# Loading work.mux4to1
+# Loading work.bitwise_xor
+# Loading work.rca8
+# Loading work.csea_level
+# Loading work.mux2to1
+# Loading work.fac
+# Loading work.bitwise_and
+# Loading work.bitwise_nand
+# Loading work.bitwise_or
+# Loading work.bitwise_nor
+# Loading work.bitwise_xnor
+# Loading work.bitwise_not
+do run_ALU_64.txt
+# *.v
+# ALU_64_tb
+# Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+# -- Compiling module ALU_64
+# -- Compiling module ALU_64_tb
+# -- Compiling module and_wordgate
+# -- Compiling module and_wordgate_tb
+# -- Compiling module arithmetic_unit
+# -- Compiling module bitwise_and
+# -- Compiling module bitwise_and_tb
+# -- Compiling module bitwise_nand
+# -- Compiling module bitwise_nand_tb
+# -- Compiling module bitwise_nor
+# -- Compiling module bitwise_nor_tb
+# -- Compiling module bitwise_not
+# -- Compiling module bitwise_not_tb
+# -- Compiling module bitwise_or
+# -- Compiling module bitwise_or_tb
+# -- Compiling module bitwise_xnor
+# -- Compiling module bitwise_xnor_tb
+# -- Compiling module bitwise_xor
+# -- Compiling module bitwise_xor_tb
+# -- Compiling module br2
+# -- Compiling module br2_tb
+# -- Compiling module control_unit
+# -- Compiling module control_unit_tb
+# -- Compiling module counter
+# -- Compiling module counter_tb
+# -- Compiling module csea_level
+# -- Compiling module csea_level_tb
+# -- Compiling module fac
+# -- Compiling module fac_tb
+# -- Compiling module logic_unit
+# -- Compiling module logic_unit_tb
+# -- Compiling module ml_csea_8
+# -- Compiling module ml_csea_8_tb
+# -- Compiling module mux16to1
+# -- Compiling module mux16to1_tb
+# -- Compiling module mux2to1
+# -- Compiling module mux2to1_tb
+# -- Compiling module mux4to1
+# -- Compiling module mux4to1_tb
+# -- Compiling module mux8to1
+# -- Compiling module mux8to1_tb
+# -- Compiling module nand_wordgate
+# -- Compiling module nand_wordgate_tb
+# -- Compiling module nor_wordgate
+# -- Compiling module nor_wordgate_tb
+# -- Compiling module not_wordgate
+# -- Compiling module not_wordgate_tb
+# -- Compiling module or_wordgate
+# -- Compiling module or_wordgate_tb
+# -- Compiling module rca8
+# -- Compiling module rca8_tb
+# -- Compiling module reg_A
+# -- Compiling module reg_A_tb
+# -- Compiling module reg_M
+# -- Compiling module reg_M_tb
+# -- Compiling module reg_Q
+# -- Compiling module reg_Q_1
+# -- Compiling module reg_Q_1_tb
+# -- Compiling module reg_Q_tb
+# -- Compiling module rotl
+# -- Compiling module rotl_tb
+# -- Compiling module rotr
+# -- Compiling module rotr_tb
+# -- Compiling module sh_reg
+# -- Compiling module sh_reg_tb
+# -- Compiling module shift_rotate_unit
+# -- Compiling module shift_rotate_unit_tb
+# -- Compiling module sla
+# -- Compiling module sla_tb
+# -- Compiling module sll
+# -- Compiling module sll_tb
+# -- Compiling module sra
+# -- Compiling module sra_tb
+# -- Compiling module srl
+# -- Compiling module srl_tb
+# -- Compiling module substractor
+# -- Compiling module substractor_tb
+# -- Compiling module xnor_wordgate
+# -- Compiling module xnor_wordgate_tb
+# -- Compiling module xor_wordgate
+# -- Compiling module xor_wordgate_tb
+# 
+# Top level modules:
+# 	ALU_64_tb
+# 	and_wordgate_tb
+# 	bitwise_and_tb
+# 	bitwise_nand_tb
+# 	bitwise_nor_tb
+# 	bitwise_not_tb
+# 	bitwise_or_tb
+# 	bitwise_xnor_tb
+# 	bitwise_xor_tb
+# 	br2_tb
+# 	control_unit_tb
+# 	counter_tb
+# 	csea_level_tb
+# 	fac_tb
+# 	logic_unit_tb
+# 	ml_csea_8_tb
+# 	mux16to1_tb
+# 	mux2to1_tb
+# 	mux4to1_tb
+# 	mux8to1_tb
+# 	nand_wordgate_tb
+# 	nor_wordgate_tb
+# 	not_wordgate_tb
+# 	or_wordgate_tb
+# 	rca8_tb
+# 	reg_A_tb
+# 	reg_M_tb
+# 	reg_Q_1_tb
+# 	reg_Q_tb
+# 	rotl_tb
+# 	rotr_tb
+# 	sh_reg_tb
+# 	shift_rotate_unit_tb
+# 	sla_tb
+# 	sll_tb
+# 	sra_tb
+# 	srl_tb
+# 	substractor_tb
+# 	xnor_wordgate_tb
+# 	xor_wordgate_tb
+# vsim -voptargs=+acc ALU_64_tb 
+# Loading work.ALU_64_tb
+# Loading work.ALU_64
+# Loading work.arithmetic_unit
+# Loading work.reg_M
+# Loading work.reg_A
+# Loading work.reg_Q
+# Loading work.reg_Q_1
+# Loading work.counter
+# Loading work.control_unit
+# Loading work.xor_wordgate
+# Loading work.ml_csea_8
+# Loading work.logic_unit
+# Loading work.and_wordgate
+# Loading work.nand_wordgate
+# Loading work.or_wordgate
+# Loading work.nor_wordgate
+# Loading work.xnor_wordgate
+# Loading work.not_wordgate
+# Loading work.mux8to1
+# Loading work.shift_rotate_unit
+# Loading work.sll
+# Loading work.srl
+# Loading work.sla
+# Loading work.sra
+# Loading work.rotl
+# Loading work.rotr
+# Loading work.mux4to1
+# Loading work.bitwise_xor
+# Loading work.rca8
+# Loading work.csea_level
+# Loading work.mux2to1
+# Loading work.fac
+# Loading work.bitwise_and
+# Loading work.bitwise_nand
+# Loading work.bitwise_or
+# Loading work.bitwise_nor
+# Loading work.bitwise_xnor
+# Loading work.bitwise_not
+do run_ALU_64.txt
+# *.v
+# ALU_64_tb
+# Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+# -- Compiling module ALU_64
+# -- Compiling module ALU_64_tb
+# ** Warning: ALU_64_tb.v(45): [RDGN] - Redundant digits in numeric literal.
+# -- Compiling module and_wordgate
+# -- Compiling module and_wordgate_tb
+# -- Compiling module arithmetic_unit
+# -- Compiling module bitwise_and
+# -- Compiling module bitwise_and_tb
+# -- Compiling module bitwise_nand
+# -- Compiling module bitwise_nand_tb
+# -- Compiling module bitwise_nor
+# -- Compiling module bitwise_nor_tb
+# -- Compiling module bitwise_not
+# -- Compiling module bitwise_not_tb
+# -- Compiling module bitwise_or
+# -- Compiling module bitwise_or_tb
+# -- Compiling module bitwise_xnor
+# -- Compiling module bitwise_xnor_tb
+# -- Compiling module bitwise_xor
+# -- Compiling module bitwise_xor_tb
+# -- Compiling module br2
+# -- Compiling module br2_tb
+# -- Compiling module control_unit
+# -- Compiling module control_unit_tb
+# -- Compiling module counter
+# -- Compiling module counter_tb
+# -- Compiling module csea_level
+# -- Compiling module csea_level_tb
+# -- Compiling module fac
+# -- Compiling module fac_tb
+# -- Compiling module logic_unit
+# -- Compiling module logic_unit_tb
+# -- Compiling module ml_csea_8
+# -- Compiling module ml_csea_8_tb
+# -- Compiling module mux16to1
+# -- Compiling module mux16to1_tb
+# -- Compiling module mux2to1
+# -- Compiling module mux2to1_tb
+# -- Compiling module mux4to1
+# -- Compiling module mux4to1_tb
+# -- Compiling module mux8to1
+# -- Compiling module mux8to1_tb
+# -- Compiling module nand_wordgate
+# -- Compiling module nand_wordgate_tb
+# -- Compiling module nor_wordgate
+# -- Compiling module nor_wordgate_tb
+# -- Compiling module not_wordgate
+# -- Compiling module not_wordgate_tb
+# -- Compiling module or_wordgate
+# -- Compiling module or_wordgate_tb
+# -- Compiling module rca8
+# -- Compiling module rca8_tb
+# -- Compiling module reg_A
+# -- Compiling module reg_A_tb
+# -- Compiling module reg_M
+# -- Compiling module reg_M_tb
+# -- Compiling module reg_Q
+# -- Compiling module reg_Q_1
+# -- Compiling module reg_Q_1_tb
+# -- Compiling module reg_Q_tb
+# -- Compiling module rotl
+# -- Compiling module rotl_tb
+# -- Compiling module rotr
+# -- Compiling module rotr_tb
+# -- Compiling module sh_reg
+# -- Compiling module sh_reg_tb
+# -- Compiling module shift_rotate_unit
+# -- Compiling module shift_rotate_unit_tb
+# -- Compiling module sla
+# -- Compiling module sla_tb
+# -- Compiling module sll
+# -- Compiling module sll_tb
+# -- Compiling module sra
+# -- Compiling module sra_tb
+# -- Compiling module srl
+# -- Compiling module srl_tb
+# -- Compiling module substractor
+# -- Compiling module substractor_tb
+# -- Compiling module xnor_wordgate
+# -- Compiling module xnor_wordgate_tb
+# -- Compiling module xor_wordgate
+# -- Compiling module xor_wordgate_tb
+# 
+# Top level modules:
+# 	ALU_64_tb
+# 	and_wordgate_tb
+# 	bitwise_and_tb
+# 	bitwise_nand_tb
+# 	bitwise_nor_tb
+# 	bitwise_not_tb
+# 	bitwise_or_tb
+# 	bitwise_xnor_tb
+# 	bitwise_xor_tb
+# 	br2_tb
+# 	control_unit_tb
+# 	counter_tb
+# 	csea_level_tb
+# 	fac_tb
+# 	logic_unit_tb
+# 	ml_csea_8_tb
+# 	mux16to1_tb
+# 	mux2to1_tb
+# 	mux4to1_tb
+# 	mux8to1_tb
+# 	nand_wordgate_tb
+# 	nor_wordgate_tb
+# 	not_wordgate_tb
+# 	or_wordgate_tb
+# 	rca8_tb
+# 	reg_A_tb
+# 	reg_M_tb
+# 	reg_Q_1_tb
+# 	reg_Q_tb
+# 	rotl_tb
+# 	rotr_tb
+# 	sh_reg_tb
+# 	shift_rotate_unit_tb
+# 	sla_tb
+# 	sll_tb
+# 	sra_tb
+# 	srl_tb
+# 	substractor_tb
+# 	xnor_wordgate_tb
+# 	xor_wordgate_tb
+# vsim -voptargs=+acc ALU_64_tb 
+# Loading work.ALU_64_tb
+# Loading work.ALU_64
+# Loading work.arithmetic_unit
+# Loading work.reg_M
+# Loading work.reg_A
+# Loading work.reg_Q
+# Loading work.reg_Q_1
+# Loading work.counter
+# Loading work.control_unit
+# Loading work.xor_wordgate
+# Loading work.ml_csea_8
+# Loading work.logic_unit
+# Loading work.and_wordgate
+# Loading work.nand_wordgate
+# Loading work.or_wordgate
+# Loading work.nor_wordgate
+# Loading work.xnor_wordgate
+# Loading work.not_wordgate
+# Loading work.mux8to1
+# Loading work.shift_rotate_unit
+# Loading work.sll
+# Loading work.srl
+# Loading work.sla
+# Loading work.sra
+# Loading work.rotl
+# Loading work.rotr
+# Loading work.mux4to1
+# Loading work.bitwise_xor
+# Loading work.rca8
+# Loading work.csea_level
+# Loading work.mux2to1
+# Loading work.fac
+# Loading work.bitwise_and
+# Loading work.bitwise_nand
+# Loading work.bitwise_or
+# Loading work.bitwise_nor
+# Loading work.bitwise_xnor
+# Loading work.bitwise_not
+do run_ALU_64.txt
+# *.v
+# ALU_64_tb
+# Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+# -- Compiling module ALU_64
+# -- Compiling module ALU_64_tb
+# ** Warning: ALU_64_tb.v(45): [RDGN] - Redundant digits in numeric literal.
+# -- Compiling module and_wordgate
+# -- Compiling module and_wordgate_tb
+# -- Compiling module arithmetic_unit
+# -- Compiling module bitwise_and
+# -- Compiling module bitwise_and_tb
+# -- Compiling module bitwise_nand
+# -- Compiling module bitwise_nand_tb
+# -- Compiling module bitwise_nor
+# -- Compiling module bitwise_nor_tb
+# -- Compiling module bitwise_not
+# -- Compiling module bitwise_not_tb
+# -- Compiling module bitwise_or
+# -- Compiling module bitwise_or_tb
+# -- Compiling module bitwise_xnor
+# -- Compiling module bitwise_xnor_tb
+# -- Compiling module bitwise_xor
+# -- Compiling module bitwise_xor_tb
+# -- Compiling module br2
+# -- Compiling module br2_tb
+# -- Compiling module control_unit
+# -- Compiling module control_unit_tb
+# -- Compiling module counter
+# -- Compiling module counter_tb
+# -- Compiling module csea_level
+# -- Compiling module csea_level_tb
+# -- Compiling module fac
+# -- Compiling module fac_tb
+# -- Compiling module logic_unit
+# -- Compiling module logic_unit_tb
+# -- Compiling module ml_csea_8
+# -- Compiling module ml_csea_8_tb
+# -- Compiling module mux16to1
+# -- Compiling module mux16to1_tb
+# -- Compiling module mux2to1
+# -- Compiling module mux2to1_tb
+# -- Compiling module mux4to1
+# -- Compiling module mux4to1_tb
+# -- Compiling module mux8to1
+# -- Compiling module mux8to1_tb
+# -- Compiling module nand_wordgate
+# -- Compiling module nand_wordgate_tb
+# -- Compiling module nor_wordgate
+# -- Compiling module nor_wordgate_tb
+# -- Compiling module not_wordgate
+# -- Compiling module not_wordgate_tb
+# -- Compiling module or_wordgate
+# -- Compiling module or_wordgate_tb
+# -- Compiling module rca8
+# -- Compiling module rca8_tb
+# -- Compiling module reg_A
+# -- Compiling module reg_A_tb
+# -- Compiling module reg_M
+# -- Compiling module reg_M_tb
+# -- Compiling module reg_Q
+# -- Compiling module reg_Q_1
+# -- Compiling module reg_Q_1_tb
+# -- Compiling module reg_Q_tb
+# -- Compiling module rotl
+# -- Compiling module rotl_tb
+# -- Compiling module rotr
+# -- Compiling module rotr_tb
+# -- Compiling module sh_reg
+# -- Compiling module sh_reg_tb
+# -- Compiling module shift_rotate_unit
+# -- Compiling module shift_rotate_unit_tb
+# -- Compiling module sla
+# -- Compiling module sla_tb
+# -- Compiling module sll
+# -- Compiling module sll_tb
+# -- Compiling module sra
+# -- Compiling module sra_tb
+# -- Compiling module srl
+# -- Compiling module srl_tb
+# -- Compiling module substractor
+# -- Compiling module substractor_tb
+# -- Compiling module xnor_wordgate
+# -- Compiling module xnor_wordgate_tb
+# -- Compiling module xor_wordgate
+# -- Compiling module xor_wordgate_tb
+# 
+# Top level modules:
+# 	ALU_64_tb
+# 	and_wordgate_tb
+# 	bitwise_and_tb
+# 	bitwise_nand_tb
+# 	bitwise_nor_tb
+# 	bitwise_not_tb
+# 	bitwise_or_tb
+# 	bitwise_xnor_tb
+# 	bitwise_xor_tb
+# 	br2_tb
+# 	control_unit_tb
+# 	counter_tb
+# 	csea_level_tb
+# 	fac_tb
+# 	logic_unit_tb
+# 	ml_csea_8_tb
+# 	mux16to1_tb
+# 	mux2to1_tb
+# 	mux4to1_tb
+# 	mux8to1_tb
+# 	nand_wordgate_tb
+# 	nor_wordgate_tb
+# 	not_wordgate_tb
+# 	or_wordgate_tb
+# 	rca8_tb
+# 	reg_A_tb
+# 	reg_M_tb
+# 	reg_Q_1_tb
+# 	reg_Q_tb
+# 	rotl_tb
+# 	rotr_tb
+# 	sh_reg_tb
+# 	shift_rotate_unit_tb
+# 	sla_tb
+# 	sll_tb
+# 	sra_tb
+# 	srl_tb
+# 	substractor_tb
+# 	xnor_wordgate_tb
+# 	xor_wordgate_tb
+# vsim -voptargs=+acc ALU_64_tb 
+# Loading work.ALU_64_tb
+# Loading work.ALU_64
+# Loading work.arithmetic_unit
+# Loading work.reg_M
+# Loading work.reg_A
+# Loading work.reg_Q
+# Loading work.reg_Q_1
+# Loading work.counter
+# Loading work.control_unit
+# Loading work.xor_wordgate
+# Loading work.ml_csea_8
+# Loading work.logic_unit
+# Loading work.and_wordgate
+# Loading work.nand_wordgate
+# Loading work.or_wordgate
+# Loading work.nor_wordgate
+# Loading work.xnor_wordgate
+# Loading work.not_wordgate
+# Loading work.mux8to1
+# Loading work.shift_rotate_unit
+# Loading work.sll
+# Loading work.srl
+# Loading work.sla
+# Loading work.sra
+# Loading work.rotl
+# Loading work.rotr
+# Loading work.mux4to1
+# Loading work.bitwise_xor
+# Loading work.rca8
+# Loading work.csea_level
+# Loading work.mux2to1
+# Loading work.fac
+# Loading work.bitwise_and
+# Loading work.bitwise_nand
+# Loading work.bitwise_or
+# Loading work.bitwise_nor
+# Loading work.bitwise_xnor
+# Loading work.bitwise_not
+do run_ALU_64.txt
+# *.v
+# ALU_64_tb
+# Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+# -- Compiling module ALU_64
+# -- Compiling module ALU_64_tb
+# ** Warning: ALU_64_tb.v(45): [RDGN] - Redundant digits in numeric literal.
+# -- Compiling module and_wordgate
+# -- Compiling module and_wordgate_tb
+# -- Compiling module arithmetic_unit
+# -- Compiling module bitwise_and
+# -- Compiling module bitwise_and_tb
+# -- Compiling module bitwise_nand
+# -- Compiling module bitwise_nand_tb
+# -- Compiling module bitwise_nor
+# -- Compiling module bitwise_nor_tb
+# -- Compiling module bitwise_not
+# -- Compiling module bitwise_not_tb
+# -- Compiling module bitwise_or
+# -- Compiling module bitwise_or_tb
+# -- Compiling module bitwise_xnor
+# -- Compiling module bitwise_xnor_tb
+# -- Compiling module bitwise_xor
+# -- Compiling module bitwise_xor_tb
+# -- Compiling module br2
+# -- Compiling module br2_tb
+# -- Compiling module control_unit
+# -- Compiling module control_unit_tb
+# -- Compiling module counter
+# -- Compiling module counter_tb
+# -- Compiling module csea_level
+# -- Compiling module csea_level_tb
+# -- Compiling module fac
+# -- Compiling module fac_tb
+# -- Compiling module logic_unit
+# -- Compiling module logic_unit_tb
+# -- Compiling module ml_csea_8
+# -- Compiling module ml_csea_8_tb
+# -- Compiling module mux16to1
+# -- Compiling module mux16to1_tb
+# -- Compiling module mux2to1
+# -- Compiling module mux2to1_tb
+# -- Compiling module mux4to1
+# -- Compiling module mux4to1_tb
+# -- Compiling module mux8to1
+# -- Compiling module mux8to1_tb
+# -- Compiling module nand_wordgate
+# -- Compiling module nand_wordgate_tb
+# -- Compiling module nor_wordgate
+# -- Compiling module nor_wordgate_tb
+# -- Compiling module not_wordgate
+# -- Compiling module not_wordgate_tb
+# -- Compiling module or_wordgate
+# -- Compiling module or_wordgate_tb
+# -- Compiling module rca8
+# -- Compiling module rca8_tb
+# -- Compiling module reg_A
+# -- Compiling module reg_A_tb
+# -- Compiling module reg_M
+# -- Compiling module reg_M_tb
+# -- Compiling module reg_Q
+# -- Compiling module reg_Q_1
+# -- Compiling module reg_Q_1_tb
+# -- Compiling module reg_Q_tb
+# -- Compiling module rotl
+# -- Compiling module rotl_tb
+# -- Compiling module rotr
+# -- Compiling module rotr_tb
+# -- Compiling module sh_reg
+# -- Compiling module sh_reg_tb
+# -- Compiling module shift_rotate_unit
+# -- Compiling module shift_rotate_unit_tb
+# -- Compiling module sla
+# -- Compiling module sla_tb
+# -- Compiling module sll
+# -- Compiling module sll_tb
+# -- Compiling module sra
+# -- Compiling module sra_tb
+# -- Compiling module srl
+# -- Compiling module srl_tb
+# -- Compiling module substractor
+# -- Compiling module substractor_tb
+# -- Compiling module xnor_wordgate
+# -- Compiling module xnor_wordgate_tb
+# -- Compiling module xor_wordgate
+# -- Compiling module xor_wordgate_tb
+# 
+# Top level modules:
+# 	ALU_64_tb
+# 	and_wordgate_tb
+# 	bitwise_and_tb
+# 	bitwise_nand_tb
+# 	bitwise_nor_tb
+# 	bitwise_not_tb
+# 	bitwise_or_tb
+# 	bitwise_xnor_tb
+# 	bitwise_xor_tb
+# 	br2_tb
+# 	control_unit_tb
+# 	counter_tb
+# 	csea_level_tb
+# 	fac_tb
+# 	logic_unit_tb
+# 	ml_csea_8_tb
+# 	mux16to1_tb
+# 	mux2to1_tb
+# 	mux4to1_tb
+# 	mux8to1_tb
+# 	nand_wordgate_tb
+# 	nor_wordgate_tb
+# 	not_wordgate_tb
+# 	or_wordgate_tb
+# 	rca8_tb
+# 	reg_A_tb
+# 	reg_M_tb
+# 	reg_Q_1_tb
+# 	reg_Q_tb
+# 	rotl_tb
+# 	rotr_tb
+# 	sh_reg_tb
+# 	shift_rotate_unit_tb
+# 	sla_tb
+# 	sll_tb
+# 	sra_tb
+# 	srl_tb
+# 	substractor_tb
+# 	xnor_wordgate_tb
+# 	xor_wordgate_tb
+# vsim -voptargs=+acc ALU_64_tb 
+# Loading work.ALU_64_tb
+# Loading work.ALU_64
+# Loading work.arithmetic_unit
+# Loading work.reg_M
+# Loading work.reg_A
+# Loading work.reg_Q
+# Loading work.reg_Q_1
+# Loading work.counter
+# Loading work.control_unit
+# Loading work.xor_wordgate
+# Loading work.ml_csea_8
+# Loading work.logic_unit
+# Loading work.and_wordgate
+# Loading work.nand_wordgate
+# Loading work.or_wordgate
+# Loading work.nor_wordgate
+# Loading work.xnor_wordgate
+# Loading work.not_wordgate
+# Loading work.mux8to1
+# Loading work.shift_rotate_unit
+# Loading work.sll
+# Loading work.srl
+# Loading work.sla
+# Loading work.sra
+# Loading work.rotl
+# Loading work.rotr
+# Loading work.mux4to1
+# Loading work.bitwise_xor
+# Loading work.rca8
+# Loading work.csea_level
+# Loading work.mux2to1
+# Loading work.fac
+# Loading work.bitwise_and
+# Loading work.bitwise_nand
+# Loading work.bitwise_or
+# Loading work.bitwise_nor
+# Loading work.bitwise_xnor
+# Loading work.bitwise_not
+do run_ALU_64.txt
+# *.v
+# ALU_64_tb
+# Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+# -- Compiling module ALU_64
+# -- Compiling module ALU_64_tb
+# -- Compiling module and_wordgate
+# -- Compiling module and_wordgate_tb
+# -- Compiling module arithmetic_unit
+# -- Compiling module bitwise_and
+# -- Compiling module bitwise_and_tb
+# -- Compiling module bitwise_nand
+# -- Compiling module bitwise_nand_tb
+# -- Compiling module bitwise_nor
+# -- Compiling module bitwise_nor_tb
+# -- Compiling module bitwise_not
+# -- Compiling module bitwise_not_tb
+# -- Compiling module bitwise_or
+# -- Compiling module bitwise_or_tb
+# -- Compiling module bitwise_xnor
+# -- Compiling module bitwise_xnor_tb
+# -- Compiling module bitwise_xor
+# -- Compiling module bitwise_xor_tb
+# -- Compiling module br2
+# -- Compiling module br2_tb
+# -- Compiling module control_unit
+# -- Compiling module control_unit_tb
+# -- Compiling module counter
+# -- Compiling module counter_tb
+# -- Compiling module csea_level
+# -- Compiling module csea_level_tb
+# -- Compiling module fac
+# -- Compiling module fac_tb
+# -- Compiling module logic_unit
+# -- Compiling module logic_unit_tb
+# -- Compiling module ml_csea_8
+# -- Compiling module ml_csea_8_tb
+# -- Compiling module mux16to1
+# -- Compiling module mux16to1_tb
+# -- Compiling module mux2to1
+# -- Compiling module mux2to1_tb
+# -- Compiling module mux4to1
+# -- Compiling module mux4to1_tb
+# -- Compiling module mux8to1
+# -- Compiling module mux8to1_tb
+# -- Compiling module nand_wordgate
+# -- Compiling module nand_wordgate_tb
+# -- Compiling module nor_wordgate
+# -- Compiling module nor_wordgate_tb
+# -- Compiling module not_wordgate
+# -- Compiling module not_wordgate_tb
+# -- Compiling module or_wordgate
+# -- Compiling module or_wordgate_tb
+# -- Compiling module rca8
+# -- Compiling module rca8_tb
+# -- Compiling module reg_A
+# -- Compiling module reg_A_tb
+# -- Compiling module reg_M
+# -- Compiling module reg_M_tb
+# -- Compiling module reg_Q
+# -- Compiling module reg_Q_1
+# -- Compiling module reg_Q_1_tb
+# -- Compiling module reg_Q_tb
+# -- Compiling module rotl
+# -- Compiling module rotl_tb
+# -- Compiling module rotr
+# -- Compiling module rotr_tb
+# -- Compiling module sh_reg
+# -- Compiling module sh_reg_tb
+# -- Compiling module shift_rotate_unit
+# -- Compiling module shift_rotate_unit_tb
+# -- Compiling module sla
+# -- Compiling module sla_tb
+# -- Compiling module sll
+# -- Compiling module sll_tb
+# -- Compiling module sra
+# -- Compiling module sra_tb
+# -- Compiling module srl
+# -- Compiling module srl_tb
+# -- Compiling module substractor
+# -- Compiling module substractor_tb
+# -- Compiling module xnor_wordgate
+# -- Compiling module xnor_wordgate_tb
+# -- Compiling module xor_wordgate
+# -- Compiling module xor_wordgate_tb
+# 
+# Top level modules:
+# 	ALU_64_tb
+# 	and_wordgate_tb
+# 	bitwise_and_tb
+# 	bitwise_nand_tb
+# 	bitwise_nor_tb
+# 	bitwise_not_tb
+# 	bitwise_or_tb
+# 	bitwise_xnor_tb
+# 	bitwise_xor_tb
+# 	br2_tb
+# 	control_unit_tb
+# 	counter_tb
+# 	csea_level_tb
+# 	fac_tb
+# 	logic_unit_tb
+# 	ml_csea_8_tb
+# 	mux16to1_tb
+# 	mux2to1_tb
+# 	mux4to1_tb
+# 	mux8to1_tb
+# 	nand_wordgate_tb
+# 	nor_wordgate_tb
+# 	not_wordgate_tb
+# 	or_wordgate_tb
+# 	rca8_tb
+# 	reg_A_tb
+# 	reg_M_tb
+# 	reg_Q_1_tb
+# 	reg_Q_tb
+# 	rotl_tb
+# 	rotr_tb
+# 	sh_reg_tb
+# 	shift_rotate_unit_tb
+# 	sla_tb
+# 	sll_tb
+# 	sra_tb
+# 	srl_tb
+# 	substractor_tb
+# 	xnor_wordgate_tb
+# 	xor_wordgate_tb
+# vsim -voptargs=+acc ALU_64_tb 
+# Loading work.ALU_64_tb
+# Loading work.ALU_64
+# Loading work.arithmetic_unit
+# Loading work.reg_M
+# Loading work.reg_A
+# Loading work.reg_Q
+# Loading work.reg_Q_1
+# Loading work.counter
+# Loading work.control_unit
+# Loading work.xor_wordgate
+# Loading work.ml_csea_8
+# Loading work.logic_unit
+# Loading work.and_wordgate
+# Loading work.nand_wordgate
+# Loading work.or_wordgate
+# Loading work.nor_wordgate
+# Loading work.xnor_wordgate
+# Loading work.not_wordgate
+# Loading work.mux8to1
+# Loading work.shift_rotate_unit
+# Loading work.sll
+# Loading work.srl
+# Loading work.sla
+# Loading work.sra
+# Loading work.rotl
+# Loading work.rotr
+# Loading work.mux4to1
+# Loading work.bitwise_xor
+# Loading work.rca8
+# Loading work.csea_level
+# Loading work.mux2to1
+# Loading work.fac
+# Loading work.bitwise_and
+# Loading work.bitwise_nand
+# Loading work.bitwise_or
+# Loading work.bitwise_nor
+# Loading work.bitwise_xnor
+# Loading work.bitwise_not
+do run_ALU_64.txt
+# *.v
+# ALU_64_tb
+# Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+# -- Compiling module ALU_64
+# -- Compiling module ALU_64_tb
+# -- Compiling module and_wordgate
+# -- Compiling module and_wordgate_tb
+# -- Compiling module arithmetic_unit
+# -- Compiling module bitwise_and
+# -- Compiling module bitwise_and_tb
+# -- Compiling module bitwise_nand
+# -- Compiling module bitwise_nand_tb
+# -- Compiling module bitwise_nor
+# -- Compiling module bitwise_nor_tb
+# -- Compiling module bitwise_not
+# -- Compiling module bitwise_not_tb
+# -- Compiling module bitwise_or
+# -- Compiling module bitwise_or_tb
+# -- Compiling module bitwise_xnor
+# -- Compiling module bitwise_xnor_tb
+# -- Compiling module bitwise_xor
+# -- Compiling module bitwise_xor_tb
+# -- Compiling module br2
+# -- Compiling module br2_tb
+# -- Compiling module control_unit
+# -- Compiling module control_unit_tb
+# -- Compiling module counter
+# -- Compiling module counter_tb
+# -- Compiling module csea_level
+# -- Compiling module csea_level_tb
+# -- Compiling module fac
+# -- Compiling module fac_tb
+# -- Compiling module logic_unit
+# -- Compiling module logic_unit_tb
+# -- Compiling module ml_csea_8
+# -- Compiling module ml_csea_8_tb
+# -- Compiling module mux16to1
+# -- Compiling module mux16to1_tb
+# -- Compiling module mux2to1
+# -- Compiling module mux2to1_tb
+# -- Compiling module mux4to1
+# -- Compiling module mux4to1_tb
+# -- Compiling module mux8to1
+# -- Compiling module mux8to1_tb
+# -- Compiling module nand_wordgate
+# -- Compiling module nand_wordgate_tb
+# -- Compiling module nor_wordgate
+# -- Compiling module nor_wordgate_tb
+# -- Compiling module not_wordgate
+# -- Compiling module not_wordgate_tb
+# -- Compiling module or_wordgate
+# -- Compiling module or_wordgate_tb
+# -- Compiling module rca8
+# -- Compiling module rca8_tb
+# -- Compiling module reg_A
+# -- Compiling module reg_A_tb
+# -- Compiling module reg_M
+# -- Compiling module reg_M_tb
+# -- Compiling module reg_Q
+# -- Compiling module reg_Q_1
+# -- Compiling module reg_Q_1_tb
+# -- Compiling module reg_Q_tb
+# -- Compiling module rotl
+# -- Compiling module rotl_tb
+# -- Compiling module rotr
+# -- Compiling module rotr_tb
+# -- Compiling module sh_reg
+# -- Compiling module sh_reg_tb
+# -- Compiling module shift_rotate_unit
+# -- Compiling module shift_rotate_unit_tb
+# -- Compiling module sla
+# -- Compiling module sla_tb
+# -- Compiling module sll
+# -- Compiling module sll_tb
+# -- Compiling module sra
+# -- Compiling module sra_tb
+# -- Compiling module srl
+# -- Compiling module srl_tb
+# -- Compiling module substractor
+# -- Compiling module substractor_tb
+# -- Compiling module xnor_wordgate
+# -- Compiling module xnor_wordgate_tb
+# -- Compiling module xor_wordgate
+# -- Compiling module xor_wordgate_tb
+# 
+# Top level modules:
+# 	ALU_64_tb
+# 	and_wordgate_tb
+# 	bitwise_and_tb
+# 	bitwise_nand_tb
+# 	bitwise_nor_tb
+# 	bitwise_not_tb
+# 	bitwise_or_tb
+# 	bitwise_xnor_tb
+# 	bitwise_xor_tb
+# 	br2_tb
+# 	control_unit_tb
+# 	counter_tb
+# 	csea_level_tb
+# 	fac_tb
+# 	logic_unit_tb
+# 	ml_csea_8_tb
+# 	mux16to1_tb
+# 	mux2to1_tb
+# 	mux4to1_tb
+# 	mux8to1_tb
+# 	nand_wordgate_tb
+# 	nor_wordgate_tb
+# 	not_wordgate_tb
+# 	or_wordgate_tb
+# 	rca8_tb
+# 	reg_A_tb
+# 	reg_M_tb
+# 	reg_Q_1_tb
+# 	reg_Q_tb
+# 	rotl_tb
+# 	rotr_tb
+# 	sh_reg_tb
+# 	shift_rotate_unit_tb
+# 	sla_tb
+# 	sll_tb
+# 	sra_tb
+# 	srl_tb
+# 	substractor_tb
+# 	xnor_wordgate_tb
+# 	xor_wordgate_tb
+# vsim -voptargs=+acc ALU_64_tb 
+# Loading work.ALU_64_tb
+# Loading work.ALU_64
+# Loading work.arithmetic_unit
+# Loading work.reg_M
+# Loading work.reg_A
+# Loading work.reg_Q
+# Loading work.reg_Q_1
+# Loading work.counter
+# Loading work.control_unit
+# Loading work.xor_wordgate
+# Loading work.ml_csea_8
+# Loading work.logic_unit
+# Loading work.and_wordgate
+# Loading work.nand_wordgate
+# Loading work.or_wordgate
+# Loading work.nor_wordgate
+# Loading work.xnor_wordgate
+# Loading work.not_wordgate
+# Loading work.mux8to1
+# Loading work.shift_rotate_unit
+# Loading work.sll
+# Loading work.srl
+# Loading work.sla
+# Loading work.sra
+# Loading work.rotl
+# Loading work.rotr
+# Loading work.mux4to1
+# Loading work.bitwise_xor
+# Loading work.rca8
+# Loading work.csea_level
+# Loading work.mux2to1
+# Loading work.fac
+# Loading work.bitwise_and
+# Loading work.bitwise_nand
+# Loading work.bitwise_or
+# Loading work.bitwise_nor
+# Loading work.bitwise_xnor
+# Loading work.bitwise_not
+do run_ALU_64.txt
+# *.v
+# ALU_64_tb
+# Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+# -- Compiling module ALU_64
+# -- Compiling module ALU_64_tb
+# -- Compiling module and_wordgate
+# -- Compiling module and_wordgate_tb
+# -- Compiling module arithmetic_unit
+# -- Compiling module bitwise_and
+# -- Compiling module bitwise_and_tb
+# -- Compiling module bitwise_nand
+# -- Compiling module bitwise_nand_tb
+# -- Compiling module bitwise_nor
+# -- Compiling module bitwise_nor_tb
+# -- Compiling module bitwise_not
+# -- Compiling module bitwise_not_tb
+# -- Compiling module bitwise_or
+# -- Compiling module bitwise_or_tb
+# -- Compiling module bitwise_xnor
+# -- Compiling module bitwise_xnor_tb
+# -- Compiling module bitwise_xor
+# -- Compiling module bitwise_xor_tb
+# -- Compiling module br2
+# -- Compiling module br2_tb
+# -- Compiling module control_unit
+# -- Compiling module control_unit_tb
+# -- Compiling module counter
+# -- Compiling module counter_tb
+# -- Compiling module csea_level
+# -- Compiling module csea_level_tb
+# -- Compiling module fac
+# -- Compiling module fac_tb
+# -- Compiling module logic_unit
+# -- Compiling module logic_unit_tb
+# -- Compiling module ml_csea_8
+# -- Compiling module ml_csea_8_tb
+# -- Compiling module mux16to1
+# -- Compiling module mux16to1_tb
+# -- Compiling module mux2to1
+# -- Compiling module mux2to1_tb
+# -- Compiling module mux4to1
+# -- Compiling module mux4to1_tb
+# -- Compiling module mux8to1
+# -- Compiling module mux8to1_tb
+# -- Compiling module nand_wordgate
+# -- Compiling module nand_wordgate_tb
+# -- Compiling module nor_wordgate
+# -- Compiling module nor_wordgate_tb
+# -- Compiling module not_wordgate
+# -- Compiling module not_wordgate_tb
+# -- Compiling module or_wordgate
+# -- Compiling module or_wordgate_tb
+# -- Compiling module rca8
+# -- Compiling module rca8_tb
+# -- Compiling module reg_A
+# -- Compiling module reg_A_tb
+# -- Compiling module reg_M
+# -- Compiling module reg_M_tb
+# -- Compiling module reg_Q
+# -- Compiling module reg_Q_1
+# -- Compiling module reg_Q_1_tb
+# -- Compiling module reg_Q_tb
+# -- Compiling module rotl
+# -- Compiling module rotl_tb
+# -- Compiling module rotr
+# -- Compiling module rotr_tb
+# -- Compiling module sh_reg
+# -- Compiling module sh_reg_tb
+# -- Compiling module shift_rotate_unit
+# -- Compiling module shift_rotate_unit_tb
+# -- Compiling module sla
+# -- Compiling module sla_tb
+# -- Compiling module sll
+# -- Compiling module sll_tb
+# -- Compiling module sra
+# -- Compiling module sra_tb
+# -- Compiling module srl
+# -- Compiling module srl_tb
+# -- Compiling module substractor
+# -- Compiling module substractor_tb
+# -- Compiling module xnor_wordgate
+# -- Compiling module xnor_wordgate_tb
+# -- Compiling module xor_wordgate
+# -- Compiling module xor_wordgate_tb
+# 
+# Top level modules:
+# 	ALU_64_tb
+# 	and_wordgate_tb
+# 	bitwise_and_tb
+# 	bitwise_nand_tb
+# 	bitwise_nor_tb
+# 	bitwise_not_tb
+# 	bitwise_or_tb
+# 	bitwise_xnor_tb
+# 	bitwise_xor_tb
+# 	br2_tb
+# 	control_unit_tb
+# 	counter_tb
+# 	csea_level_tb
+# 	fac_tb
+# 	logic_unit_tb
+# 	ml_csea_8_tb
+# 	mux16to1_tb
+# 	mux2to1_tb
+# 	mux4to1_tb
+# 	mux8to1_tb
+# 	nand_wordgate_tb
+# 	nor_wordgate_tb
+# 	not_wordgate_tb
+# 	or_wordgate_tb
+# 	rca8_tb
+# 	reg_A_tb
+# 	reg_M_tb
+# 	reg_Q_1_tb
+# 	reg_Q_tb
+# 	rotl_tb
+# 	rotr_tb
+# 	sh_reg_tb
+# 	shift_rotate_unit_tb
+# 	sla_tb
+# 	sll_tb
+# 	sra_tb
+# 	srl_tb
+# 	substractor_tb
+# 	xnor_wordgate_tb
+# 	xor_wordgate_tb
+# vsim -voptargs=+acc ALU_64_tb 
+# Loading work.ALU_64_tb
+# Loading work.ALU_64
+# Loading work.arithmetic_unit
+# Loading work.reg_M
+# Loading work.reg_A
+# Loading work.reg_Q
+# Loading work.reg_Q_1
+# Loading work.counter
+# Loading work.control_unit
+# Loading work.xor_wordgate
+# Loading work.ml_csea_8
+# Loading work.logic_unit
+# Loading work.and_wordgate
+# Loading work.nand_wordgate
+# Loading work.or_wordgate
+# Loading work.nor_wordgate
+# Loading work.xnor_wordgate
+# Loading work.not_wordgate
+# Loading work.mux8to1
+# Loading work.shift_rotate_unit
+# Loading work.sll
+# Loading work.srl
+# Loading work.sla
+# Loading work.sra
+# Loading work.rotl
+# Loading work.rotr
+# Loading work.mux4to1
+# Loading work.bitwise_xor
+# Loading work.rca8
+# Loading work.csea_level
+# Loading work.mux2to1
+# Loading work.fac
+# Loading work.bitwise_and
+# Loading work.bitwise_nand
+# Loading work.bitwise_or
+# Loading work.bitwise_nor
+# Loading work.bitwise_xnor
+# Loading work.bitwise_not
